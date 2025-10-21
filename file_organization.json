@@ -1,0 +1,37 @@
+{
+  "organization": {
+    "type": "alphabetical",
+    "folders": {
+      "A": {
+        "description": "Coins A-*",
+        "file_count": 90,
+        "coins": ["bitcoin", "ethereum", "binance-coin", "..."]
+      },
+      "B": {
+        "description": "Coins B-*", 
+        "file_count": 90,
+        "coins": ["cardano", "chainlink", "..."]
+      },
+      "C": {
+        "description": "Coins C-*",
+        "file_count": 90,
+        "coins": ["polkadot", "polygon", "..."]
+      },
+      "D": {
+        "description": "Coins D-Z",
+        "file_count": 90,
+        "coins": ["dogecoin", "uniswap", "..."]
+      }
+    }
+  },
+  "index": {
+    "bitcoin": "A/bitcoin.json",
+    "ethereum": "A/ethereum.json",
+    "binance-coin": "A/binance-coin.json",
+    "cardano": "B/cardano.json",
+    "chainlink": "B/chainlink.json",
+    "polkadot": "C/polkadot.json",
+    "dogecoin": "D/dogecoin.json",
+    "uniswap": "D/uniswap.json"
+  }
+}
