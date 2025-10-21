@@ -1,0 +1,4170 @@
+[
+  {
+    "id": "bitcoin",
+    "icon": "https://static.coinstats.app/coins/1650455588819.png",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "rank": 1,
+    "price": 108618.56840553382,
+    "priceBtc": 1,
+    "volume": 43361786120.07256,
+    "marketCap": 2165611817361.6633,
+    "availableSupply": 19937768,
+    "totalSupply": 19937768,
+    "fullyDilutedValuation": 2165611817361.6633,
+    "priceChange1h": -0.14,
+    "priceChange1d": -1.86,
+    "priceChange1w": -1.63,
+    "redditUrl": "https://www.reddit.com/r/Bitcoin/",
+    "twitterUrl": "https://twitter.com/bitcoin",
+    "contractAddresses": [],
+    "explorers": [
+      "https://mempool.space/"
+    ]
+  },
+  {
+    "id": "ethereum",
+    "icon": "https://static.coinstats.app/coins/1650455629727.png",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "rank": 2,
+    "price": 3880.897168000481,
+    "priceBtc": 0.0357200986689395,
+    "volume": 36251672014.483025,
+    "marketCap": 468418133074.74963,
+    "availableSupply": 120698414,
+    "totalSupply": 120698414,
+    "fullyDilutedValuation": 468418133074.74963,
+    "priceChange1h": -0.42,
+    "priceChange1d": -3.79,
+    "priceChange1w": -1.29,
+    "redditUrl": "https://www.reddit.com/r/ethereum",
+    "websiteUrl": "https://www.ethereum.org/",
+    "twitterUrl": "https://twitter.com/ethereum",
+    "contractAddresses": [],
+    "explorers": [
+      "https://etherscan.io/"
+    ]
+  },
+  {
+    "id": "tether",
+    "icon": "https://static.coinstats.app/coins/1650455771843.png",
+    "name": "Tether",
+    "symbol": "USDT",
+    "rank": 3,
+    "price": 1.0003,
+    "priceBtc": 9.206843972356382e-06,
+    "volume": 105245789422.2233,
+    "marketCap": 182007414043.4585,
+    "availableSupply": 181952828195,
+    "totalSupply": 181952828195,
+    "fullyDilutedValuation": 182007414043.4585,
+    "priceChange1h": 0.03,
+    "priceChange1d": 0.09,
+    "priceChange1w": -0.02,
+    "websiteUrl": "https://tether.to/",
+    "twitterUrl": "https://twitter.com/Tether_to",
+    "contractAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+      },
+      {
+        "blockchain": "solana",
+        "contractAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+      },
+      {
+        "blockchain": "tron",
+        "contractAddress": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+      },
+      {
+        "blockchain": "avalanche",
+        "contractAddress": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7"
+      },
+      {
+        "blockchain": "kava",
+        "contractAddress": "0x919c1c267bc06a7039e03fcc2ef738525769109c"
+      },
+      {
+        "blockchain": "near-protocol",
+        "contractAddress": "usdt.tether-token.near"
+      },
+      {
+        "blockchain": "algorand",
+        "contractAddress": "312769"
+      },
+      {
+        "blockchain": "eos",
+        "contractAddress": "tethertether"
+      },
+      {
+        "blockchain": "the-open-network",
+        "contractAddress": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs"
+      },
+      {
+        "blockchain": "celo",
+        "contractAddress": "0x48065fbbe25f71c9282ddf5e1cd6d6a887483d5e"
+      },
+      {
+        "blockchain": "injective",
+        "contractAddress": "peggy0xdac17f958d2ee523a2206206994597c13d831ec7"
+      },
+      {
+        "blockchain": "aptos",
+        "contractAddress": "0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b"
+      },
+      {
+        "blockchain": "klay-token",
+        "contractAddress": "0xd077a400968890eacc75cdc901f0356c943e4fdb"
+      },
+      {
+        "blockchain": "terra-2",
+        "contractAddress": "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7"
+    ]
+  },
+  {
+    "id": "binance-coin",
+    "icon": "https://static.coinstats.app/coins/1666608145347.png",
+    "name": "BNB",
+    "symbol": "BNB",
+    "rank": 4,
+    "price": 1075.4585318329248,
+    "priceBtc": 0.009898609318529648,
+    "volume": 9816857532.898655,
+    "marketCap": 149682797039.55313,
+    "availableSupply": 139180445,
+    "totalSupply": 139180445,
+    "fullyDilutedValuation": 149682797039.55313,
+    "priceChange1h": 0.13,
+    "priceChange1d": -3.28,
+    "priceChange1w": -6.49,
+    "redditUrl": "https://www.reddit.com/r/binance",
+    "websiteUrl": "https://www.binance.com",
+    "twitterUrl": "https://twitter.com/binance",
+    "contractAddress": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xb8c77482e45f1f44de1745f52c74426c631bdd52"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://bscscan.com"
+    ]
+  },
+  {
+    "id": "ripple",
+    "icon": "https://static.coinstats.app/coins/XRPdnqGJ.png",
+    "name": "XRP",
+    "symbol": "XRP",
+    "rank": 5,
+    "price": 2.4227288618413163,
+    "priceBtc": 2.2298996919221795e-05,
+    "volume": 3315712148.5948687,
+    "marketCap": 145304238213.87878,
+    "availableSupply": 59975443601,
+    "totalSupply": 99985782669,
+    "fullyDilutedValuation": 242238441445.97958,
+    "priceChange1h": -0.3,
+    "priceChange1d": -1.15,
+    "priceChange1w": 0.11,
+    "redditUrl": "https://www.reddit.com/r/ripple",
+    "websiteUrl": "https://ripple.com/currency/",
+    "twitterUrl": "https://twitter.com/Ripple",
+    "contractAddresses": [],
+    "explorers": [
+      "https://blockchair.com/ripple"
+    ]
+  },
+  {
+    "id": "solana",
+    "icon": "https://static.coinstats.app/coins/1701234596791.png",
+    "name": "Solana",
+    "symbol": "SOL",
+    "rank": 6,
+    "price": 186.0592141900708,
+    "priceBtc": 0.0017125044033462144,
+    "volume": 8378813695.073427,
+    "marketCap": 101689235511.11429,
+    "availableSupply": 546542325,
+    "totalSupply": 612287182,
+    "fullyDilutedValuation": 113921671941.57286,
+    "priceChange1h": -0.33,
+    "priceChange1d": -3.02,
+    "priceChange1w": -3.34,
+    "redditUrl": "https://www.reddit.com/r/solana",
+    "websiteUrl": "https://solana.com/",
+    "twitterUrl": "https://twitter.com/solana",
+    "contractAddresses": [],
+    "explorers": [
+      "https://solscan.io/"
+    ]
+  },
+  {
+    "id": "usd-coin",
+    "icon": "https://static.coinstats.app/coins/1650455825065.png",
+    "name": "USDC",
+    "symbol": "USDC",
+    "rank": 7,
+    "price": 0.999901,
+    "priceBtc": 9.20544080021178e-06,
+    "volume": 8461682211,
+    "marketCap": 76192750245,
+    "availableSupply": 76207417373,
+    "totalSupply": 76301350668,
+    "fullyDilutedValuation": 76286665462,
+    "priceChange1h": 0.01,
+    "priceChange1d": 0.02,
+    "priceChange1w": 0,
+    "websiteUrl": "https://www.circle.com/en/usdc",
+    "contractAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+      },
+      {
+        "blockchain": "solana",
+        "contractAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+      },
+      {
+        "blockchain": "tomochain",
+        "contractAddress": "0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0"
+      },
+      {
+        "blockchain": "arbitrum-one",
+        "contractAddress": "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
+      },
+      {
+        "blockchain": "avalanche",
+        "contractAddress": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e"
+      },
+      {
+        "blockchain": "algorand",
+        "contractAddress": "31566704"
+      },
+      {
+        "blockchain": "tron",
+        "contractAddress": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8"
+      },
+      {
+        "blockchain": "zksync_era",
+        "contractAddress": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4"
+      },
+      {
+        "blockchain": "base",
+        "contractAddress": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913"
+      },
+      {
+        "blockchain": "optimistic-ethereum",
+        "contractAddress": "0x0b2c639c533813f4aa9d7837caf62653d097ff85"
+      },
+      {
+        "blockchain": "polkadot",
+        "contractAddress": "1337"
+      },
+      {
+        "blockchain": "flow",
+        "contractAddress": "A.b19436aae4d94622.FiatToken"
+      },
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359"
+      },
+      {
+        "blockchain": "near-protocol",
+        "contractAddress": "17208628f84f5d6ad33f0da3bbbeb27ffcb398eac501a31bd6ad2011e36133a1"
+      },
+      {
+        "blockchain": "stellar",
+        "contractAddress": "USDC-GA5ZSEJYB37JRC5AVCIA5MOP4RHTM335X2KGX3IHOJAPP5RE34K4KZVN"
+      },
+      {
+        "blockchain": "hedera-hashgraph",
+        "contractAddress": "0.0.456858"
+      },
+      {
+        "blockchain": "celo",
+        "contractAddress": "0xceba9300f2b948710d2653dd7b07f33a8b32118c"
+      },
+      {
+        "blockchain": "zksync",
+        "contractAddress": "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4"
+      },
+      {
+        "blockchain": "injective",
+        "contractAddress": "ibc/2cbc2ea121ae42563b08028466f37b600f2d7d4282342de938283cc3fb2bc00e"
+      },
+      {
+        "blockchain": "sui",
+        "contractAddress": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC"
+      },
+      {
+        "blockchain": "aptos",
+        "contractAddress": "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b"
+      },
+      {
+        "blockchain": "unichain",
+        "contractAddress": "0x078d782b760474a361dda0af3839290b0ef57ad6"
+      },
+      {
+        "blockchain": "sonic",
+        "contractAddress": "0x29219dd400f2bf60e5a23d13be72b486d4038894"
+      },
+      {
+        "blockchain": "world-chain",
+        "contractAddress": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "blockchain": "xrp",
+        "contractAddress": "5553444300000000000000000000000000000000.rGm7WCVp9gb4jZHWTEtGUr4dd74z2XuWhE"
+      },
+      {
+        "blockchain": "sei-v2",
+        "contractAddress": "0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392"
+      },
+      {
+        "blockchain": "moonriver",
+        "contractAddress": "0xffffffff7d2b0b761af01ca8e25242976ac0ad7d"
+      },
+      {
+        "blockchain": "xdc-network",
+        "contractAddress": "0xfa2958cb79b0491cc627c1557f441ef849ca8eb1"
+      },
+      {
+        "blockchain": "hyperevm",
+        "contractAddress": "0xb88339cb7199b77e23db6e890353e22632ba630f"
+      },
+      {
+        "blockchain": "plume-network",
+        "contractAddress": "0x222365ef19f7947e5484218551b56bb3965aa7af"
+      },
+      {
+        "blockchain": "ink",
+        "contractAddress": "0x2d270e6886d130d724215a266106e6832161eaed"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    ]
+  },
+  {
+    "id": "staked-ether",
+    "icon": "https://static.coinstats.app/coins/staked-etheruqt.png",
+    "name": "Lido Staked Ether",
+    "symbol": "STETH",
+    "rank": 8,
+    "price": 3877.68,
+    "priceBtc": 0.035699287911668466,
+    "volume": 64361195,
+    "marketCap": 32984330430,
+    "availableSupply": 8510976,
+    "totalSupply": 8510976,
+    "fullyDilutedValuation": 32984330430,
+    "priceChange1h": -0.4,
+    "priceChange1d": -3.78,
+    "priceChange1w": -2.49,
+    "redditUrl": "https://www.reddit.com/r/lidofinance/",
+    "websiteUrl": "https://www.lido.fi",
+    "twitterUrl": "https://twitter.com/lidofinance",
+    "contractAddress": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
+    ]
+  },
+  {
+    "id": "tron",
+    "icon": "https://static.coinstats.app/coins/TRONxJljY.png",
+    "name": "TRON",
+    "symbol": "TRX",
+    "rank": 9,
+    "price": 0.3223832924274668,
+    "priceBtc": 2.9672424999242504e-06,
+    "volume": 262488295.8424836,
+    "marketCap": 30518626451.692173,
+    "availableSupply": 94665657832,
+    "totalSupply": 94665824870,
+    "fullyDilutedValuation": 30518680301.95257,
+    "priceChange1h": 0.23,
+    "priceChange1d": -0.07,
+    "priceChange1w": 3.98,
+    "redditUrl": "https://www.reddit.com/r/Tronix",
+    "websiteUrl": "https://tron.network",
+    "twitterUrl": "https://twitter.com/trondao",
+    "contractAddresses": [],
+    "explorers": [
+      "https://tronscan.org/"
+    ]
+  },
+  {
+    "id": "dogecoin",
+    "icon": "https://static.coinstats.app/coins/DogecoinIZai5.png",
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "rank": 10,
+    "price": 0.19501793335701814,
+    "priceBtc": 1.7949611958706998e-06,
+    "volume": 2480830839.8763223,
+    "marketCap": 29529261781.275463,
+    "availableSupply": 151418186384,
+    "totalSupply": 151442156384,
+    "fullyDilutedValuation": 29533936361.13803,
+    "priceChange1h": 0.26,
+    "priceChange1d": -2.8,
+    "priceChange1w": -0.56,
+    "redditUrl": "https://www.reddit.com/r/dogecoin/",
+    "twitterUrl": "https://twitter.com/dogecoin",
+    "contractAddresses": [],
+    "explorers": [
+      "https://blockchair.com/dogecoin"
+    ]
+  },
+  {
+    "id": "cardano",
+    "icon": "https://static.coinstats.app/coins/CardanojXddT.png",
+    "name": "Cardano",
+    "symbol": "ADA",
+    "rank": 11,
+    "price": 0.6482848297272374,
+    "priceBtc": 5.966867216779265e-06,
+    "volume": 664393378.3562789,
+    "marketCap": 23705693640.523815,
+    "availableSupply": 36566787550,
+    "totalSupply": 45000000000,
+    "fullyDilutedValuation": 29172817337.725685,
+    "priceChange1h": 0.44,
+    "priceChange1d": -2.63,
+    "priceChange1w": -3.02,
+    "redditUrl": "https://www.reddit.com/r/cardano",
+    "websiteUrl": "https://cardano.org/",
+    "twitterUrl": "https://twitter.com/Cardano_CF",
+    "contractAddresses": [],
+    "explorers": [
+      "https://cardanoscan.io/"
+    ]
+  },
+  {
+    "id": "wrapped-bitcoin",
+    "icon": "https://static.coinstats.app/coins/wrapped-bitcoinoc1.png",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "rank": 12,
+    "price": 108322,
+    "priceBtc": 0.9972504861586701,
+    "volume": 401300838,
+    "marketCap": 13756177899,
+    "availableSupply": 126774,
+    "totalSupply": 126774,
+    "fullyDilutedValuation": 13756177899,
+    "priceChange1h": -0.06,
+    "priceChange1d": -2.15,
+    "priceChange1w": -2.66,
+    "websiteUrl": "https://www.wbtc.network/",
+    "twitterUrl": "https://twitter.com/WrappedBTC",
+    "contractAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+      },
+      {
+        "blockchain": "harmony-shard-0",
+        "contractAddress": "0x3095c7557bcb296ccc6e363de01b760ba031f2d9"
+      },
+      {
+        "blockchain": "osmosis",
+        "contractAddress": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc"
+      },
+      {
+        "blockchain": "solana",
+        "contractAddress": "5XZw2LKTyrfvfiskJ78AMpackRjPcyCif1WhUsPDuVqQ"
+      },
+      {
+        "blockchain": "unichain",
+        "contractAddress": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+      },
+      {
+        "blockchain": "base",
+        "contractAddress": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+      },
+      {
+        "blockchain": "berachain",
+        "contractAddress": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+      },
+      {
+        "blockchain": "sonic",
+        "contractAddress": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+      },
+      {
+        "blockchain": "optimistic-ethereum",
+        "contractAddress": "0x68f180fcce6836688e9084f035309e29bf0a2095"
+      },
+      {
+        "blockchain": "sei-v2",
+        "contractAddress": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+      },
+      {
+        "blockchain": "aptos",
+        "contractAddress": "0x68844a0d7f2587e726ad0579f3d640865bb4162c08a4589eeda3f9689ec52a3d"
+      },
+      {
+        "blockchain": "avalanche",
+        "contractAddress": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+      },
+      {
+        "blockchain": "bob-network",
+        "contractAddress": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+      },
+      {
+        "blockchain": "telos",
+        "contractAddress": "0x7627b27594bc71e6ab0fce755ae8931eb1e12dac"
+      },
+      {
+        "blockchain": "soneium",
+        "contractAddress": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+      },
+      {
+        "blockchain": "swellchain",
+        "contractAddress": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+    ]
+  },
+  {
+    "id": "chainlink",
+    "icon": "https://static.coinstats.app/coins/ChainLink0JkIR.png",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "rank": 14,
+    "price": 18.093623730222802,
+    "priceBtc": 0.00016653521001568149,
+    "volume": 1026445226.6291072,
+    "marketCap": 12608541153.597048,
+    "availableSupply": 696849970,
+    "totalSupply": 1000000000,
+    "fullyDilutedValuation": 18093623730.2228,
+    "priceChange1h": 0.69,
+    "priceChange1d": -4.31,
+    "priceChange1w": -1.44,
+    "redditUrl": "https://www.reddit.com/r/Chainlink/",
+    "websiteUrl": "https://chain.link/",
+    "twitterUrl": "https://twitter.com/chainlink",
+    "contractAddress": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x514910771af9ca656af840dff83e8264ecf986ca"
+      },
+      {
+        "blockchain": "near-protocol",
+        "contractAddress": "514910771af9ca656af840dff83e8264ecf986ca.factory.bridge.near"
+      },
+      {
+        "blockchain": "xdai",
+        "contractAddress": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd"
+      },
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39"
+      },
+      {
+        "blockchain": "huobi-token",
+        "contractAddress": "0x9e004545c59d359f6b7bfb06a26390b087717b42"
+      },
+      {
+        "blockchain": "optimistic-ethereum",
+        "contractAddress": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6"
+      },
+      {
+        "blockchain": "harmony-shard-0",
+        "contractAddress": "0x218532a12a389a4a92fc0c5fb22901d1c19198aa"
+      },
+      {
+        "blockchain": "avalanche",
+        "contractAddress": "0x5947bb275c521040051d82396192181b413227a3"
+      },
+      {
+        "blockchain": "arbitrum-one",
+        "contractAddress": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4"
+      },
+      {
+        "blockchain": "sora",
+        "contractAddress": "0x008484148dcf23d1b48908393e7a00d5fdc3bf81029a73eeca62a15ebfb1205a"
+      },
+      {
+        "blockchain": "fantom",
+        "contractAddress": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8"
+      },
+      {
+        "blockchain": "milkomeda-cardano",
+        "contractAddress": "0xf390830df829cf22c53c8840554b98eafc5dcbc2"
+      },
+      {
+        "blockchain": "energi",
+        "contractAddress": "0x68ca48ca2626c415a89756471d4ade2cc9034008"
+      },
+      {
+        "blockchain": "osmosis",
+        "contractAddress": "ibc/D3327A763C23F01EC43D1F0DB3CEFEC390C362569B6FD191F40A5192F8960049"
+      },
+      {
+        "blockchain": "base",
+        "contractAddress": "0x88fb150bdc53a65fe94dea0c9ba0a6daf8c6e196"
+      },
+      {
+        "blockchain": "solana",
+        "contractAddress": "LinkhB3afbBKb2EQQu7s7umdZceV3wcvAUJhQAfQ23L"
+      },
+      {
+        "blockchain": "hydration",
+        "contractAddress": "asset_registry%2F1000794"
+      },
+      {
+        "blockchain": "abstract",
+        "contractAddress": "0x2ea38d6cdb6774992d4a62fe622f4405663729dd"
+      },
+      {
+        "blockchain": "apechain",
+        "contractAddress": "0xf575731b78981b86d34321d875a3d25a48479be6"
+      },
+      {
+        "blockchain": "astar",
+        "contractAddress": "0x31efb841d5e0b4082f7e1267dab8de1b853f2a9d"
+      },
+      {
+        "blockchain": "berachain",
+        "contractAddress": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f"
+      },
+      {
+        "blockchain": "bitlayer",
+        "contractAddress": "0x56b275c0ec034a229a1ded8db17089544bc276d9"
+      },
+      {
+        "blockchain": "blast",
+        "contractAddress": "0x93202ec683288a9ea75bb829c6bacfb2bfea9013"
+      },
+      {
+        "blockchain": "bob-network",
+        "contractAddress": "0x5ab885cda7216b163fb6f813dec1e1532516c833"
+      },
+      {
+        "blockchain": "botanix",
+        "contractAddress": "0x30e85a5c9525ad9a7a0fa5c74df4baf0b01ad241"
+      },
+      {
+        "blockchain": "bsquared-network",
+        "contractAddress": "0x709229d9587886a1edfee6b5ce636e1d70d1ce39"
+      },
+      {
+        "blockchain": "celo",
+        "contractAddress": "0xd07294e6e917e07dfdcee882dd1e2565085c2ae0"
+      },
+      {
+        "blockchain": "core",
+        "contractAddress": "0x3902228d6a3d2dc44731fd9d45fee6a61c722d0b"
+      },
+      {
+        "blockchain": "corn",
+        "contractAddress": "0x7311ded199cc28d80e58e81e8589aa160199fcd2"
+      },
+      {
+        "blockchain": "cronos",
+        "contractAddress": "0x8c80a01f461f297df7f9da3a4f740d7297c8ac85"
+      },
+      {
+        "blockchain": "cronos-zkevm",
+        "contractAddress": "0x61170ca9fb9cf98d4c7d684e07be6d969d59667e"
+      },
+      {
+        "blockchain": "etherlink",
+        "contractAddress": "0x8ce7618e8f8e514d13889283f58ff03b794e6cc3"
+      },
+      {
+        "blockchain": "mint",
+        "contractAddress": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f"
+      },
+      {
+        "blockchain": "mode",
+        "contractAddress": "0x183e3691eff3524b2315d3703d94f922cbe51f54"
+      },
+      {
+        "blockchain": "monad",
+        "contractAddress": "0x6fe981dbd557f81ff66836af0932cba535cbc343"
+      },
+      {
+        "blockchain": "moonbeam",
+        "contractAddress": "0x012414a392f9fa442a3109f1320c439c45518ac3"
+      },
+      {
+        "blockchain": "moonriver",
+        "contractAddress": "0x8b12ac23bfe11cab03a634c1f117d64a7f2cfd3e"
+      },
+      {
+        "blockchain": "merlin-chain",
+        "contractAddress": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f"
+      },
+      {
+        "blockchain": "metal-l2",
+        "contractAddress": "0x587d19ddf735d6b536aadb1a2a92938eb23b8d5c"
+      },
+      {
+        "blockchain": "metis-andromeda",
+        "contractAddress": "0xd2fe54d1e5f568eb710ba9d898bf4bd02c7c0353"
+      },
+      {
+        "blockchain": "lens",
+        "contractAddress": "0x6e970e8d6758164798290c8db1d79a527ca6e1b2"
+      },
+      {
+        "blockchain": "linea",
+        "contractAddress": "0xa18152629128738a5c081eb226335fed4b9c95e9"
+      },
+      {
+        "blockchain": "lisk",
+        "contractAddress": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f"
+      },
+      {
+        "blockchain": "mantle",
+        "contractAddress": "0xfe36cf0b43aae49fbc5cfc5c0af22a623114e043"
+      },
+      {
+        "blockchain": "opbnb",
+        "contractAddress": "0x99f0d88b81b758ab07e22c7aba00e0121a882dea"
+      },
+      {
+        "blockchain": "neo",
+        "contractAddress": "0xb25de57d73ab177fc091327bcb725154dfbb5bfb"
+      },
+      {
+        "blockchain": "plume-network",
+        "contractAddress": "0xb549b375da0c76f8b3877b9adfdd28378f087a64"
+      },
+      {
+        "blockchain": "polygon-zkevm",
+        "contractAddress": "0xdb7a504cf869484dd6ac5faf925c8386cbf7573d"
+      },
+      {
+        "blockchain": "ronin",
+        "contractAddress": "0x3902228d6a3d2dc44731fd9d45fee6a61c722d0b"
+      },
+      {
+        "blockchain": "fraxtal",
+        "contractAddress": "0xd6a6ba37faac229b9665e86739ca501401f5a940"
+      },
+      {
+        "blockchain": "hashkey-chain",
+        "contractAddress": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f"
+      },
+      {
+        "blockchain": "hedera-hashgraph",
+        "contractAddress": "0x7ce6bb2cc2d3fd45a974da6a0f29236cb9513a98"
+      },
+      {
+        "blockchain": "hemi",
+        "contractAddress": "0x63dbe12a6381d64ade47bc3d92abf4393dff4bc8"
+      },
+      {
+        "blockchain": "hyperevm",
+        "contractAddress": "0x1ac2ee68b8d038c982c1e1f73f596927dd70de59"
+      },
+      {
+        "blockchain": "ink",
+        "contractAddress": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f"
+      },
+      {
+        "blockchain": "kroma",
+        "contractAddress": "0xc1f6f7622ad37c3f46cdf6f8aa0344ade80bf450"
+      },
+      {
+        "blockchain": "rootstock",
+        "contractAddress": "0x938d84942f5d924070a6bb82f8e56a5e2b3098a4"
+      },
+      {
+        "blockchain": "scroll",
+        "contractAddress": "0x548c6944cba02b9d1c0570102c89de64d258d3ac"
+      },
+      {
+        "blockchain": "shibarium",
+        "contractAddress": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f"
+      },
+      {
+        "blockchain": "soneium",
+        "contractAddress": "0x32d8f819c8080ae44375f8d383ffd39fc642f3ec"
+      },
+      {
+        "blockchain": "sonic",
+        "contractAddress": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f"
+      },
+      {
+        "blockchain": "starknet",
+        "contractAddress": "0x060f47b96b525c1014fed595e87e98edc3ce0731627a0670e1804ee1a3ca0ee9"
+      },
+      {
+        "blockchain": "superseed",
+        "contractAddress": "0x41ccf59e3f30eb624ef8e5ea34b2da96bee472d9"
+      },
+      {
+        "blockchain": "taiko",
+        "contractAddress": "0x917a3964c37993e99a47c779beb5db1e9d13804d"
+      },
+      {
+        "blockchain": "unichain",
+        "contractAddress": "0xef66491eab4bbb582c57b14778afd8dfb70d8a1a"
+      },
+      {
+        "blockchain": "wemix-network",
+        "contractAddress": "0x80f1fcdc96b55e459bf52b998abbe2c364935d69"
+      },
+      {
+        "blockchain": "world-chain",
+        "contractAddress": "0x915b648e994d5f31059b38223b9fbe98ae185473"
+      },
+      {
+        "blockchain": "x-layer",
+        "contractAddress": "0x8af9711b44695a5a081f25ab9903ddb73acf8fa9"
+      },
+      {
+        "blockchain": "sei-v2",
+        "contractAddress": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f"
+      },
+      {
+        "blockchain": "katana",
+        "contractAddress": "0xc2c447b04e0ed3476ddbdae8e9e39be7159d27b6"
+      },
+      {
+        "blockchain": "zircuit",
+        "contractAddress": "0xdee94506570ca186bc1e3516fcf4fd719c312ccd"
+      },
+      {
+        "blockchain": "zksync",
+        "contractAddress": "0x52869bae3e091e36b0915941577f2d47d8d8b534"
+      },
+      {
+        "blockchain": "zora-network",
+        "contractAddress": "0x3662b6f73c5560229d1a98af6e59e6649d568374"
+      },
+      {
+        "blockchain": "plasma",
+        "contractAddress": "0x76a443768a5e3b8d1aed0105fc250877841deb40"
+      },
+      {
+        "blockchain": "klay-token",
+        "contractAddress": "0x7311ded199cc28d80e58e81e8589aa160199fcd2"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca"
+    ]
+  },
+  {
+    "id": "stellar",
+    "icon": "https://static.coinstats.app/coins/1594216268358.png",
+    "name": "Stellar",
+    "symbol": "XLM",
+    "rank": 17,
+    "price": 0.31583725987223893,
+    "priceBtc": 2.9069922746178936e-06,
+    "volume": 162517372.294342,
+    "marketCap": 10108785454.947332,
+    "availableSupply": 32006310652,
+    "totalSupply": 50001786885,
+    "fullyDilutedValuation": 15792427358.474052,
+    "priceChange1h": -0.57,
+    "priceChange1d": -2.95,
+    "priceChange1w": -2.32,
+    "redditUrl": "https://www.reddit.com/r/stellar",
+    "websiteUrl": "https://www.stellar.org/",
+    "twitterUrl": "https://twitter.com/stellarorg",
+    "contractAddresses": [],
+    "explorers": [
+      "https://dashboard.stellar.org/"
+    ]
+  },
+  {
+    "id": "bitcoin-cash",
+    "icon": "https://static.coinstats.app/coins/1646234235578.png",
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "rank": 19,
+    "price": 474.73460697505067,
+    "priceBtc": 0.004369496605715507,
+    "volume": 594022777.1214771,
+    "marketCap": 9467015111.914368,
+    "availableSupply": 19941700,
+    "totalSupply": 19941887,
+    "fullyDilutedValuation": 9467103887.285872,
+    "priceChange1h": 0.39,
+    "priceChange1d": -1.48,
+    "priceChange1w": -8.06,
+    "redditUrl": "https://www.reddit.com/r/btc",
+    "websiteUrl": "https://bch.info/",
+    "contractAddresses": [],
+    "explorers": [
+      "https://blockchair.com/bitcoin-cash"
+    ]
+  },
+  {
+    "id": "avalanche-2",
+    "icon": "https://static.coinstats.app/coins/1675667082696.png",
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "rank": 21,
+    "price": 20,
+    "priceBtc": 0.00018412704458164918,
+    "volume": 476738135,
+    "marketCap": 8529335524,
+    "availableSupply": 426545848,
+    "totalSupply": 459881696,
+    "fullyDilutedValuation": 9195928877,
+    "priceChange1h": -0.19,
+    "priceChange1d": -2.93,
+    "priceChange1w": -11.08,
+    "redditUrl": "https://www.reddit.com/r/Avax",
+    "websiteUrl": "https://www.avax.network",
+    "twitterUrl": "https://twitter.com/avax",
+    "contractAddresses": [],
+    "explorers": [
+      "https://snowtrace.io/"
+    ]
+  },
+  {
+    "id": "hedera-hashgraph",
+    "icon": "https://static.coinstats.app/coins/1594379268854.png",
+    "name": "Hedera",
+    "symbol": "HBAR",
+    "rank": 22,
+    "price": 0.17252372085175063,
+    "priceBtc": 1.587922602631646e-06,
+    "volume": 191875488.77665284,
+    "marketCap": 7315908050.925097,
+    "availableSupply": 42405229929,
+    "totalSupply": 50000000000,
+    "fullyDilutedValuation": 8626186042.587532,
+    "priceChange1h": 0.27,
+    "priceChange1d": -2.95,
+    "priceChange1w": -3.02,
+    "redditUrl": "https://www.reddit.com/r/Hedera/",
+    "websiteUrl": "https://www.hedera.com/",
+    "twitterUrl": "https://twitter.com/hedera",
+    "contractAddresses": [],
+    "explorers": [
+      "https://hashscan.io/"
+    ]
+  },
+  {
+    "id": "litecoin",
+    "icon": "https://static.coinstats.app/coins/LitecoinGiD2Q.png",
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "rank": 23,
+    "price": 92.95677254698649,
+    "priceBtc": 0.0008555818264659859,
+    "volume": 497241028.7788702,
+    "marketCap": 7104584059.22992,
+    "availableSupply": 76428902,
+    "totalSupply": 76431708,
+    "fullyDilutedValuation": 7104844895.933687,
+    "priceChange1h": 0.08,
+    "priceChange1d": -1.9,
+    "priceChange1w": 0.85,
+    "redditUrl": "https://www.reddit.com/r/litecoin/",
+    "twitterUrl": "https://twitter.com/LTCFoundation",
+    "contractAddresses": [],
+    "explorers": [
+      "https://blockchair.com/litecoin"
+    ]
+  },
+  {
+    "id": "whitebit",
+    "icon": "https://static.coinstats.app/coins/1708951289635.png",
+    "name": "WhiteBIT Coin",
+    "symbol": "WBT",
+    "rank": 24,
+    "price": 40.95896453826163,
+    "priceBtc": 0.0003769896988633939,
+    "volume": 23995025.987967823,
+    "marketCap": 5902945227.109857,
+    "availableSupply": 144118517,
+    "totalSupply": 321606758,
+    "fullyDilutedValuation": 13172679796.18729,
+    "priceChange1h": -0.14,
+    "priceChange1d": -1.96,
+    "priceChange1w": -1.92,
+    "websiteUrl": "https://whitebit.com/wbt",
+    "twitterUrl": "https://twitter.com/WhiteBit",
+    "contractAddress": "0x925206b8a707096ed26ae47c84747fe0bb734f59",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x925206b8a707096ed26ae47c84747fe0bb734f59"
+      },
+      {
+        "blockchain": "tron",
+        "contractAddress": "TFptbWaARrWTX5Yvy3gNG5Lm8BmhPx82Bt"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x925206b8a707096ed26ae47c84747fe0bb734f59"
+    ]
+  },
+  {
+    "id": "bittensor",
+    "icon": "https://static.coinstats.app/coins/bittensorEHd.png",
+    "name": "Bittensor",
+    "symbol": "TAO",
+    "rank": 33,
+    "price": 400.64,
+    "priceBtc": 0.0036884329570595962,
+    "volume": 308931609,
+    "marketCap": 3845079810,
+    "availableSupply": 9597491,
+    "totalSupply": 21000000,
+    "fullyDilutedValuation": 8413310939,
+    "priceChange1h": -0.75,
+    "priceChange1d": -8.46,
+    "priceChange1w": -10.67,
+    "websiteUrl": "https://bittensor.com/",
+    "twitterUrl": "https://twitter.com/opentensor",
+    "contractAddresses": [],
+    "explorers": [
+      "https://taostats.io/"
+    ]
+  },
+  {
+    "id": "aptos",
+    "icon": "https://static.coinstats.app/coins/1669289234156.png",
+    "name": "Aptos",
+    "symbol": "APT",
+    "rank": 47,
+    "price": 3.17,
+    "priceBtc": 2.9184136566191394e-05,
+    "volume": 283254222,
+    "marketCap": 2279097839,
+    "availableSupply": 717855047,
+    "totalSupply": 1180651654,
+    "fullyDilutedValuation": 3748417795,
+    "priceChange1h": 0.53,
+    "priceChange1d": -3.79,
+    "priceChange1w": -12.8,
+    "websiteUrl": "https://aptosfoundation.org",
+    "twitterUrl": "https://twitter.com/Aptos_Network",
+    "contractAddress": "0x1::aptos_coin::AptosCoin",
+    "contractAddresses": [
+      {
+        "blockchain": "aptos",
+        "contractAddress": "0x1::aptos_coin::AptosCoin"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://aptscan.ai/"
+    ]
+  },
+  {
+    "id": "kaspa",
+    "icon": "https://static.coinstats.app/coins/1653915370818.png",
+    "name": "Kaspa",
+    "symbol": "KAS",
+    "rank": 68,
+    "price": 0.051926,
+    "priceBtc": 4.780490458473357e-07,
+    "volume": 52735845,
+    "marketCap": 1389792141,
+    "availableSupply": 26777148611,
+    "totalSupply": 26832499893,
+    "fullyDilutedValuation": 1392664993,
+    "priceChange1h": -0.31,
+    "priceChange1d": -3.64,
+    "priceChange1w": -13.16,
+    "redditUrl": "https://www.reddit.com/r/Kaspa",
+    "websiteUrl": "https://kaspa.org/",
+    "twitterUrl": "https://twitter.com/KaspaCurrency",
+    "contractAddresses": [],
+    "explorers": [
+      "https://kas.fyi/"
+    ]
+  },
+  {
+    "id": "optimism",
+    "icon": "https://static.coinstats.app/coins/1664959117211.png",
+    "name": "Optimism",
+    "symbol": "OP",
+    "rank": 97,
+    "price": 0.4388967808275263,
+    "priceBtc": 4.039642288362022e-06,
+    "volume": 153296175.66554648,
+    "marketCap": 780636908.040131,
+    "availableSupply": 1778634390,
+    "totalSupply": 4294967296,
+    "fullyDilutedValuation": 1885047319.9739053,
+    "priceChange1h": 0.72,
+    "priceChange1d": -2.46,
+    "priceChange1w": -3.31,
+    "websiteUrl": "https://www.optimism.io",
+    "twitterUrl": "https://twitter.com/Optimism",
+    "contractAddress": "0x4200000000000000000000000000000000000042",
+    "contractAddresses": [
+      {
+        "blockchain": "optimistic-ethereum",
+        "contractAddress": "0x4200000000000000000000000000000000000042"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042"
+    ]
+  },
+  {
+    "id": "coinbase-wrapped-staked-eth",
+    "icon": "https://static.coinstats.app/coins/coinbase-wrapped-staked-ethDcQ.png",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "CBETH",
+    "rank": 126,
+    "price": 4265.07,
+    "priceBtc": 0.03926573670169272,
+    "volume": 4915575,
+    "marketCap": 543046466,
+    "availableSupply": 127336,
+    "totalSupply": 373334,
+    "fullyDilutedValuation": 1592148676,
+    "priceChange1h": -0.25,
+    "priceChange1d": -3.78,
+    "priceChange1w": -1.91,
+    "websiteUrl": "https://www.coinbase.com/cbeth",
+    "twitterUrl": "https://twitter.com/CoinbaseAssets",
+    "contractAddress": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xbe9895146f7af43049ca1c1ae358b0541ea49704"
+      },
+      {
+        "blockchain": "optimistic-ethereum",
+        "contractAddress": "0xaddb6a0412de1ba0f936dcaeb8aaa24578dcf3b2"
+      },
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0x4b4327db1600b8b1440163f667e199cef35385f5"
+      },
+      {
+        "blockchain": "arbitrum-one",
+        "contractAddress": "0x1debd73e752beaf79865fd6446b0c970eae7732f"
+      },
+      {
+        "blockchain": "base",
+        "contractAddress": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0xbe9895146f7af43049ca1c1ae358b0541ea49704"
+    ]
+  },
+  {
+    "id": "bitcoin-avalanche-bridged-btc-b",
+    "icon": "https://static.coinstats.app/coins/bitcoin-avalanche-bridged-btc-b2eQ.png",
+    "name": "Avalanche Bridged BTC (Avalanche)",
+    "symbol": "BTC.B",
+    "rank": 140,
+    "price": 108607,
+    "priceBtc": 0.9998742965439585,
+    "volume": 43722926,
+    "marketCap": 505668033,
+    "availableSupply": 4656,
+    "totalSupply": 4656,
+    "fullyDilutedValuation": 505668033,
+    "priceChange1h": 0.01,
+    "priceChange1d": -1.81,
+    "priceChange1w": -2.49,
+    "websiteUrl": "https://core.app/en/bridge/",
+    "twitterUrl": "https://twitter.com/avalancheavax",
+    "contractAddress": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+    "contractAddresses": [
+      {
+        "blockchain": "avalanche",
+        "contractAddress": "0x152b9d0fdc40c096757f570a51e494bd4b943e50"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://snowtrace.io/token/0x152b9d0fdc40c096757f570a51e494bd4b943e50"
+    ]
+  },
+  {
+    "id": "usdd",
+    "icon": "https://static.coinstats.app/coins/usddtEo.png",
+    "name": "USDD",
+    "symbol": "USDD",
+    "rank": 150,
+    "price": 1.001,
+    "priceBtc": 9.21555858131154e-06,
+    "volume": 4894967,
+    "marketCap": 462800816,
+    "availableSupply": 462605511,
+    "totalSupply": 462605511,
+    "fullyDilutedValuation": 462800816,
+    "priceChange1h": 0.08,
+    "priceChange1d": 0.08,
+    "priceChange1w": 0.01,
+    "websiteUrl": "https://usdd.io/",
+    "twitterUrl": "https://twitter.com/usddio",
+    "contractAddress": "0x4f8e5de400de08b164e7421b3ee387f461becd1a",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x4f8e5de400de08b164e7421b3ee387f461becd1a"
+      },
+      {
+        "blockchain": "tron",
+        "contractAddress": "TXDk8mbtRbXeYuMNS83CfKPaYYT8XWv9Hz"
+      },
+      {
+        "blockchain": "arbitrum-one",
+        "contractAddress": "0x680447595e8b7b3aa1b43beb9f6098c79ac2ab3f"
+      },
+      {
+        "blockchain": "near-protocol",
+        "contractAddress": "0c10bf8fcb7bf5412187a595ab97a3609160b5c6.factory.bridge.near"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x392004bee213f1ff580c867359c246924f21e6ad"
+      },
+      {
+        "blockchain": "avalanche",
+        "contractAddress": "0xb514cabd09ef5b169ed3fe0fa8dbd590741e81c2"
+      },
+      {
+        "blockchain": "bittorrent",
+        "contractAddress": "0x392004bee213f1ff580c867359c246924f21e6ad"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://tronscan.org/#/token20/TXDk8mbtRbXeYuMNS83CfKPaYYT8XWv9Hz"
+    ]
+  },
+  {
+    "id": "frax-ether",
+    "icon": "https://static.coinstats.app/coins/frax-ether8D8.png",
+    "name": "Frax Ether",
+    "symbol": "FRXETH",
+    "rank": 163,
+    "price": 3851.13,
+    "priceBtc": 0.03545485925998633,
+    "volume": 776386,
+    "marketCap": 418035881,
+    "availableSupply": 108577,
+    "totalSupply": 108577,
+    "fullyDilutedValuation": 418035881,
+    "priceChange1h": -0.37,
+    "priceChange1d": -3.81,
+    "priceChange1w": -2.44,
+    "websiteUrl": "https://app.frax.finance/",
+    "twitterUrl": "https://twitter.com/fraxfinance",
+    "contractAddress": "0x5e8422345238f34275888049021821e8e08caa1f",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x5e8422345238f34275888049021821e8e08caa1f"
+      },
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0xee327f889d5947c1dc1934bb208a1e792f953e96"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x64048a7eecf3a2f1ba9e144aac3d7db6e58f555e"
+      },
+      {
+        "blockchain": "arbitrum-one",
+        "contractAddress": "0x178412e79c25968a32e89b11f63b33f733770c2a"
+      },
+      {
+        "blockchain": "fantom",
+        "contractAddress": "0x9e73f99ee061c8807f69f9c6ccc44ea3d8c373ee"
+      },
+      {
+        "blockchain": "moonbeam",
+        "contractAddress": "0x82bbd1b6f6de2b7bb63d3e1546e6b1553508be99"
+      },
+      {
+        "blockchain": "optimistic-ethereum",
+        "contractAddress": "0x6806411765af15bddd26f8f544a34cc40cb9838b"
+      },
+      {
+        "blockchain": "polygon-zkevm",
+        "contractAddress": "0xcf7ecee185f19e2e970a301ee37f93536ed66179"
+      },
+      {
+        "blockchain": "linea",
+        "contractAddress": "0xb1afd04774c02ae84692619448b08ba79f19b1ff"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x5e8422345238f34275888049021821e8e08caa1f"
+    ]
+  },
+  {
+    "id": "staked-frax-ether",
+    "icon": "https://static.coinstats.app/coins/staked-frax-etherZRf.png",
+    "name": "Staked Frax Ether",
+    "symbol": "SFRXETH",
+    "rank": 219,
+    "price": 4384.03,
+    "priceBtc": 0.04036092436286437,
+    "volume": 258775,
+    "marketCap": 291612191,
+    "availableSupply": 66544,
+    "totalSupply": 66544,
+    "fullyDilutedValuation": 291612191,
+    "priceChange1h": -0.31,
+    "priceChange1d": -3.66,
+    "priceChange1w": -1.45,
+    "websiteUrl": "https://app.frax.finance/",
+    "twitterUrl": "https://twitter.com/fraxfinance",
+    "contractAddress": "0xac3e018457b222d93114458476f3e3416abbe38f",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xac3e018457b222d93114458476f3e3416abbe38f"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x3cd55356433c89e50dc51ab07ee0fa0a95623d53"
+      },
+      {
+        "blockchain": "arbitrum-one",
+        "contractAddress": "0x95ab45875cffdba1e5f451b950bc2e42c0053f39"
+      },
+      {
+        "blockchain": "fantom",
+        "contractAddress": "0xb90ccd563918ff900928dc529aa01046795ccb4a"
+      },
+      {
+        "blockchain": "moonbeam",
+        "contractAddress": "0xecf91116348af1cffe335e9807f0051332be128d"
+      },
+      {
+        "blockchain": "optimistic-ethereum",
+        "contractAddress": "0x484c2d6e3cdd945a8b2df735e079178c1036578c"
+      },
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0x6d1fdbb266fcc09a16a22016369210a15bb95761"
+      },
+      {
+        "blockchain": "fraxtal",
+        "contractAddress": "0xfc00000000000000000000000000000000000005"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0xac3e018457b222d93114458476f3e3416abbe38f"
+    ]
+  },
+  {
+    "id": "euro-coin",
+    "icon": "https://static.coinstats.app/coins/euro-coinz63.png",
+    "name": "EURC",
+    "symbol": "EURC",
+    "rank": 231,
+    "price": 1.16,
+    "priceBtc": 1.0679368585735652e-05,
+    "volume": 37120492,
+    "marketCap": 267051554,
+    "availableSupply": 230029866,
+    "totalSupply": 230029866,
+    "fullyDilutedValuation": 267051554,
+    "priceChange1h": 0.03,
+    "priceChange1d": -0.31,
+    "priceChange1w": 0.63,
+    "websiteUrl": "https://www.circle.com",
+    "twitterUrl": "https://twitter.com/circlepay",
+    "contractAddress": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c"
+      },
+      {
+        "blockchain": "avalanche",
+        "contractAddress": "0xc891eb4cbdeff6e073e859e987815ed1505c2acd"
+      },
+      {
+        "blockchain": "stellar",
+        "contractAddress": "EURC-GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2"
+      },
+      {
+        "blockchain": "solana",
+        "contractAddress": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr"
+      },
+      {
+        "blockchain": "base",
+        "contractAddress": "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x1abaea1f7c830bd89acc67ec4af516284b1bc33c"
+    ]
+  },
+  {
+    "id": "axelar",
+    "icon": "https://static.coinstats.app/coins/axelarMFc.png",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "rank": 264,
+    "price": 0.202971,
+    "priceBtc": 1.8686225182890959e-06,
+    "volume": 8937912,
+    "marketCap": 214380445,
+    "availableSupply": 1056661963,
+    "totalSupply": 1220118497,
+    "fullyDilutedValuation": 247543259,
+    "priceChange1h": -0.4,
+    "priceChange1d": -1.92,
+    "priceChange1w": -9.04,
+    "redditUrl": "https://www.reddit.com/r/axelar/",
+    "websiteUrl": "https://axelar.network/",
+    "twitterUrl": "https://twitter.com/axelarnetwork",
+    "contractAddress": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65"
+      },
+      {
+        "blockchain": "avalanche",
+        "contractAddress": "0x44c784266cf024a60e8acf2427b9857ace194c5d"
+      },
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0x6e4e624106cb12e168e6533f8ec7c82263358940"
+      },
+      {
+        "blockchain": "fantom",
+        "contractAddress": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65"
+      },
+      {
+        "blockchain": "moonbeam",
+        "contractAddress": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3"
+      },
+      {
+        "blockchain": "osmosis",
+        "contractAddress": "ibc/903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E"
+      },
+      {
+        "blockchain": "arbitrum-one",
+        "contractAddress": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f"
+      },
+      {
+        "blockchain": "secret",
+        "contractAddress": "secret1vcau4rkn7mvfwl8hf0dqa9p0jr59983e3qqe3z"
+      },
+      {
+        "blockchain": "optimistic-ethereum",
+        "contractAddress": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f"
+      },
+      {
+        "blockchain": "base",
+        "contractAddress": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://axelarscan.io/"
+    ]
+  },
+  {
+    "id": "apex-token-2",
+    "icon": "https://static.coinstats.app/coins/apex-token-2Wrh.png",
+    "name": "APEX",
+    "symbol": "APEX",
+    "rank": 340,
+    "price": 1.17,
+    "priceBtc": 1.0771432108026476e-05,
+    "volume": 16643033,
+    "marketCap": 154804528,
+    "availableSupply": 132407204,
+    "totalSupply": 499999990,
+    "fullyDilutedValuation": 584577427,
+    "priceChange1h": 0.14,
+    "priceChange1d": -11.47,
+    "priceChange1w": 5.68,
+    "websiteUrl": "https://apex.exchange/",
+    "twitterUrl": "https://twitter.com/OfficialApeXdex",
+    "contractAddress": "0x52a8845df664d76c69d2eea607cd793565af42b8",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x52a8845df664d76c69d2eea607cd793565af42b8"
+      },
+      {
+        "blockchain": "arbitrum-one",
+        "contractAddress": "0x61a1ff55c5216b636a294a07d77c6f4df10d3b56"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x52a8845df664d76c69d2eea607cd793565af42b8"
+    ]
+  },
+  {
+    "id": "euler",
+    "icon": "https://static.coinstats.app/coins/eulerOhb.png",
+    "name": "Euler",
+    "symbol": "EUL",
+    "rank": 345,
+    "price": 8.15,
+    "priceBtc": 7.503177066702204e-05,
+    "volume": 27014286,
+    "marketCap": 152473084,
+    "availableSupply": 18685531,
+    "totalSupply": 27182818,
+    "fullyDilutedValuation": 221810566,
+    "priceChange1h": 2.91,
+    "priceChange1d": 3.78,
+    "priceChange1w": 9.65,
+    "websiteUrl": "https://www.euler.finance/",
+    "twitterUrl": "https://twitter.com/eulerfinance",
+    "contractAddress": "0xd9fcd98c322942075a5c3860693e9f4f03aae07b",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xd9fcd98c322942075a5c3860693e9f4f03aae07b"
+      },
+      {
+        "blockchain": "avalanche",
+        "contractAddress": "0x9ceed3a7f753608372eeab300486cc7c2f38ac68"
+      },
+      {
+        "blockchain": "unichain",
+        "contractAddress": "0xe9c43e09c5fa733bcc2aeaa96063a4a60147aa09"
+      },
+      {
+        "blockchain": "arbitrum-one",
+        "contractAddress": "0x462cd9e0247b2e63831c3189ae738e5e9a5a4b64"
+      },
+      {
+        "blockchain": "base",
+        "contractAddress": "0xa153ad732f831a79b5575fa02e793ec4e99181b0"
+      },
+      {
+        "blockchain": "plasma",
+        "contractAddress": "0xca632fa58397391c750c13f935daa61abbe0baa6"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x2117e8b79e8e176a670c9fcf945d4348556bffad"
+      },
+      {
+        "blockchain": "sonic",
+        "contractAddress": "0x2117e8b79e8e176a670c9fcf945d4348556bffad"
+      },
+      {
+        "blockchain": "bob-network",
+        "contractAddress": "0xde1763afa5eb658cffffd16835afeb47e7ac0b8d"
+      },
+      {
+        "blockchain": "berachain",
+        "contractAddress": "0xeb9b5f4eb023ae754ff59a04c9c038d58606dac6"
+      },
+      {
+        "blockchain": "swellchain",
+        "contractAddress": "0x80ccfbec4b8c82265abdc226ad3df84c0726e7a3"
+      },
+      {
+        "blockchain": "tac",
+        "contractAddress": "0x38c043856a109066d64a60c82e07848a1c58e7dc"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0xd9fcd98c322942075a5c3860693e9f4f03aae07b"
+    ]
+  },
+  {
+    "id": "metal-blockchain",
+    "icon": "https://static.coinstats.app/coins/metal-blockchainisZ.png",
+    "name": "Metal Blockchain",
+    "symbol": "METAL",
+    "rank": 357,
+    "price": 0.280244,
+    "priceBtc": 2.5800249740869844e-06,
+    "volume": 1379613,
+    "marketCap": 141973977,
+    "availableSupply": 507639839,
+    "totalSupply": 666666666,
+    "fullyDilutedValuation": 186449744,
+    "priceChange1h": -0.37,
+    "priceChange1d": -8.62,
+    "priceChange1w": -11.96,
+    "websiteUrl": "https://metalblockchain.org/",
+    "twitterUrl": "https://twitter.com/MetalBlockchain",
+    "contractAddress": "0x294559fa758c88d639fd085751e463fee7806eab",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x294559fa758c88d639fd085751e463fee7806eab"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://explorer.metalblockchain.org"
+    ]
+  },
+  {
+    "id": "metaplex",
+    "icon": "https://static.coinstats.app/coins/metaplexBmA.png",
+    "name": "Metaplex",
+    "symbol": "MPLX",
+    "rank": 383,
+    "price": 0.221367,
+    "priceBtc": 2.037982573895297e-06,
+    "volume": 5416142,
+    "marketCap": 129848175,
+    "availableSupply": 586541373,
+    "totalSupply": 1000000000,
+    "fullyDilutedValuation": 221379396,
+    "priceChange1h": 0.04,
+    "priceChange1d": -2.25,
+    "priceChange1w": -10.93,
+    "websiteUrl": "https://www.metaplex.com/",
+    "twitterUrl": "https://twitter.com/metaplex",
+    "contractAddress": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
+    "contractAddresses": [
+      {
+        "blockchain": "solana",
+        "contractAddress": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x75a5863a19af60ec0098d62ed8c34cc594fb470f"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://solscan.io/token/METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m"
+    ]
+  },
+  {
+    "id": "ethereum-pow-iou",
+    "icon": "https://static.coinstats.app/coins/ethereum-pow-iouDEg.png",
+    "name": "EthereumPoW",
+    "symbol": "ETHW",
+    "rank": 433,
+    "price": 0.977038,
+    "priceBtc": 8.994955969198268e-06,
+    "volume": 7832332,
+    "marketCap": 105367384,
+    "availableSupply": 107818717,
+    "totalSupply": 107818717,
+    "fullyDilutedValuation": 105367384,
+    "priceChange1h": -0.33,
+    "priceChange1d": -3.41,
+    "priceChange1w": -4.23,
+    "websiteUrl": "https://ethereumpow.org/",
+    "twitterUrl": "https://twitter.com/EthereumPoW",
+    "contractAddresses": [],
+    "explorers": [
+      "https://ethwscan.com"
+    ]
+  },
+  {
+    "id": "moonwell-artemis",
+    "icon": "https://static.coinstats.app/coins/moonwell-artemis3aO.png",
+    "name": "Moonwell",
+    "symbol": "WELL",
+    "rank": 526,
+    "price": 0.01819524,
+    "priceBtc": 1.6751178833269032e-07,
+    "volume": 439246,
+    "marketCap": 81376154,
+    "availableSupply": 4470705982,
+    "totalSupply": 5000000000,
+    "fullyDilutedValuation": 91010407,
+    "priceChange1h": -0.72,
+    "priceChange1d": -5.46,
+    "priceChange1w": -11.28,
+    "websiteUrl": "https://moonwell.fi",
+    "twitterUrl": "https://twitter.com/MoonwellDeFi",
+    "contractAddress": "0x511ab53f793683763e5a8829738301368a2411e3",
+    "contractAddresses": [
+      {
+        "blockchain": "moonbeam",
+        "contractAddress": "0x511ab53f793683763e5a8829738301368a2411e3"
+      },
+      {
+        "blockchain": "base",
+        "contractAddress": "0xa88594d404727625a9437c3f886c7643872296ae"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://basescan.org/token/0xff8adec2221f9f4d8dfbafa6b9a297d17603493d"
+    ]
+  },
+  {
+    "id": "deso",
+    "icon": "https://static.coinstats.app/coins/desoqp7.png",
+    "name": "Decentralized Social",
+    "symbol": "DESO",
+    "rank": 549,
+    "price": 7.12,
+    "priceBtc": 6.55492278710671e-05,
+    "volume": 34918,
+    "marketCap": 74949568,
+    "availableSupply": 10532254,
+    "totalSupply": 10808493,
+    "fullyDilutedValuation": 76915337,
+    "priceChange1h": 0.29,
+    "priceChange1d": -4.54,
+    "priceChange1w": -2.58,
+    "redditUrl": "https://www.reddit.com/r/DESO",
+    "websiteUrl": "https://www.deso.com/",
+    "twitterUrl": "https://twitter.com/desoprotocol",
+    "contractAddresses": [],
+    "explorers": [
+      "https://explorer.deso.com/"
+    ]
+  },
+  {
+    "id": "terra-luna-2",
+    "icon": "https://static.coinstats.app/coins/terra-luna-2q48.png",
+    "name": "Terra",
+    "symbol": "LUNA",
+    "rank": 583,
+    "price": 0.099868,
+    "priceBtc": 9.194199844140069e-07,
+    "volume": 11234891,
+    "marketCap": 68269958,
+    "availableSupply": 687660230,
+    "totalSupply": 1078518456,
+    "fullyDilutedValuation": 107073824,
+    "priceChange1h": 1.46,
+    "priceChange1d": -0.5,
+    "priceChange1w": 1.19,
+    "websiteUrl": "https://www.phoenix.money/",
+    "twitterUrl": "https://twitter.com/phoenix_dir",
+    "contractAddress": "ibc/785AFEC6B3741100D15E7AF01374E3C4C36F24888E96479B1C33F5C71F364EF9",
+    "contractAddresses": [
+      {
+        "blockchain": "osmosis",
+        "contractAddress": "ibc/785AFEC6B3741100D15E7AF01374E3C4C36F24888E96479B1C33F5C71F364EF9"
+      },
+      {
+        "blockchain": "terra-2",
+        "contractAddress": "uluna"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://finder.terra.money/"
+    ]
+  },
+  {
+    "id": "wiki-cat",
+    "icon": "https://static.coinstats.app/coins/wiki-catadT.png",
+    "name": "Wiki Cat",
+    "symbol": "WKC",
+    "rank": 600,
+    "price": 1.19253e-07,
+    "priceBtc": 1.0978851223747704e-12,
+    "volume": 420709,
+    "marketCap": 64929708,
+    "availableSupply": 544203941164491,
+    "totalSupply": 544203941164491,
+    "fullyDilutedValuation": 64929708,
+    "priceChange1h": -0.24,
+    "priceChange1d": -4.51,
+    "priceChange1w": -12.87,
+    "redditUrl": "https://www.reddit.com/r/Wikicatcoin",
+    "websiteUrl": "https://wikicatcoin.com/",
+    "twitterUrl": "https://twitter.com/WikiCatCoin",
+    "contractAddress": "0x6ec90334d89dbdc89e08a133271be3d104128edb",
+    "contractAddresses": [
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x6ec90334d89dbdc89e08a133271be3d104128edb"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://bscscan.com/token/0x6ec90334d89dbdc89e08a133271be3d104128edb"
+    ]
+  },
+  {
+    "id": "mythos",
+    "icon": "https://static.coinstats.app/coins/mythosSuN.png",
+    "name": "Mythos",
+    "symbol": "MYTH",
+    "rank": 654,
+    "price": 0.072317,
+    "priceBtc": 6.657757741505562e-07,
+    "volume": 1670770,
+    "marketCap": 57409167,
+    "availableSupply": 796416526,
+    "totalSupply": 1000000000,
+    "fullyDilutedValuation": 72084349,
+    "priceChange1h": -0.31,
+    "priceChange1d": 10.37,
+    "priceChange1w": 88.76,
+    "websiteUrl": "https://mythos.foundation/",
+    "twitterUrl": "https://twitter.com/EnterTheMythos",
+    "contractAddress": "0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003"
+      },
+      {
+        "blockchain": "avalanche",
+        "contractAddress": "0x9b9fd410d5f01a6a60acf4678a5a99d8027fa5a7"
+      },
+      {
+        "blockchain": "base",
+        "contractAddress": "0x9b9fd410d5f01a6a60acf4678a5a99d8027fa5a7"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003"
+    ]
+  },
+  {
+    "id": "hivemapper",
+    "icon": "https://static.coinstats.app/coins/hivemapperhcs.png",
+    "name": "Hivemapper",
+    "symbol": "HONEY",
+    "rank": 694,
+    "price": 0.0104403,
+    "priceBtc": 9.611707917728959e-08,
+    "volume": 641019,
+    "marketCap": 51761231,
+    "availableSupply": 4957980602,
+    "totalSupply": 6505534736,
+    "fullyDilutedValuation": 67917669,
+    "priceChange1h": 1.05,
+    "priceChange1d": -5.19,
+    "priceChange1w": -10.02,
+    "websiteUrl": "https://hivemapper.com/",
+    "twitterUrl": "https://twitter.com/Hivemapper",
+    "contractAddress": "4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy",
+    "contractAddresses": [
+      {
+        "blockchain": "solana",
+        "contractAddress": "4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://solscan.io/token/4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy"
+    ]
+  },
+  {
+    "id": "across-protocol",
+    "icon": "https://static.coinstats.app/coins/across-protocoljLa.png",
+    "name": "Across Protocol",
+    "symbol": "ACX",
+    "rank": 710,
+    "price": 0.080883,
+    "priceBtc": 7.446373873448765e-07,
+    "volume": 3457238,
+    "marketCap": 49967911,
+    "availableSupply": 618101883,
+    "totalSupply": 1000000000,
+    "fullyDilutedValuation": 80840897,
+    "priceChange1h": -0.22,
+    "priceChange1d": -5.75,
+    "priceChange1w": -1.03,
+    "websiteUrl": "https://across.to/",
+    "twitterUrl": "https://twitter.com/AcrossProtocol",
+    "contractAddress": "0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f"
+      },
+      {
+        "blockchain": "optimistic-ethereum",
+        "contractAddress": "0xff733b2a3557a7ed6697007ab5d11b79fdd1b76b"
+      },
+      {
+        "blockchain": "arbitrum-one",
+        "contractAddress": "0x53691596d1bce8cea565b84d4915e69e03d9c99d"
+      },
+      {
+        "blockchain": "boba",
+        "contractAddress": "0x96821b258955587069f680729cd77369c0892b40"
+      },
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0xf328b73b6c685831f238c30a23fc19140cb4d8fc"
+      },
+      {
+        "blockchain": "linea",
+        "contractAddress": "0x7e63a5f1a8f0b4d0934b2f2327daed3f6bb2ee75"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f"
+    ]
+  },
+  {
+    "id": "usd",
+    "icon": "https://static.coinstats.app/coins/usdARx.png",
+    "name": "Overnight.fi USD+",
+    "symbol": "USD+",
+    "rank": 730,
+    "price": 0.999883,
+    "priceBtc": 9.205275085871656e-06,
+    "volume": 1046745,
+    "marketCap": 48080855,
+    "availableSupply": 48085096,
+    "totalSupply": 48085096,
+    "fullyDilutedValuation": 48080855,
+    "priceChange1h": 0,
+    "priceChange1d": 0.02,
+    "priceChange1w": 0.02,
+    "websiteUrl": "https://overnight.fi/",
+    "twitterUrl": "https://twitter.com/overnight_fi",
+    "contractAddress": "0x236eec6359fb44cce8f97e99387aa7f8cd5cde1f",
+    "contractAddresses": [
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0x236eec6359fb44cce8f97e99387aa7f8cd5cde1f"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65"
+      },
+      {
+        "blockchain": "avalanche",
+        "contractAddress": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65"
+      },
+      {
+        "blockchain": "zksync",
+        "contractAddress": "0x8e86e46278518efc1c5ced245cba2c7e3ef11557"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://polygonscan.com/token/0x236eec6359fb44cce8f97e99387aa7f8cd5cde1f"
+    ]
+  },
+  {
+    "id": "researchcoin",
+    "icon": "https://static.coinstats.app/coins/researchcoinrN4.png",
+    "name": "ResearchCoin",
+    "symbol": "RSC",
+    "rank": 788,
+    "price": 0.345856,
+    "priceBtc": 3.184072156541543e-06,
+    "volume": 752667,
+    "marketCap": 42846745,
+    "availableSupply": 124306414,
+    "totalSupply": 1000000000,
+    "fullyDilutedValuation": 344686522,
+    "priceChange1h": -0.14,
+    "priceChange1d": -7.07,
+    "priceChange1w": -11.92,
+    "websiteUrl": "https://www.researchhub.com/",
+    "twitterUrl": "https://twitter.com/ResearchHub",
+    "contractAddress": "0xd101dcc414f310268c37eeb4cd376ccfa507f571",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xd101dcc414f310268c37eeb4cd376ccfa507f571"
+      },
+      {
+        "blockchain": "base",
+        "contractAddress": "0xfbb75a59193a3525a8825bebe7d4b56899e2f7e1"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0xd101dcc414f310268c37eeb4cd376ccfa507f571"
+    ]
+  },
+  {
+    "id": "a-hunters-dream",
+    "icon": "https://static.coinstats.app/coins/a-hunters-dreamjMn.png",
+    "name": "A Hunters Dream",
+    "symbol": "CAW",
+    "rank": 804,
+    "price": 6.4768e-08,
+    "priceBtc": 5.962770211732127e-13,
+    "volume": 533505,
+    "marketCap": 41233520,
+    "availableSupply": 636666666666666,
+    "totalSupply": 666666666666666,
+    "fullyDilutedValuation": 43176460,
+    "priceChange1h": 1.22,
+    "priceChange1d": -5.9,
+    "priceChange1w": -5.68,
+    "websiteUrl": "https://caw.is",
+    "twitterUrl": "https://twitter.com/CommunityCaw",
+    "contractAddress": "0xf3b9569f82b18aef890de263b84189bd33ebe452",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xf3b9569f82b18aef890de263b84189bd33ebe452"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0xf3b9569f82b18aef890de263b84189bd33ebe452"
+    ]
+  },
+  {
+    "id": "helio-protocol-hay",
+    "icon": "https://static.coinstats.app/coins/helio-protocol-hayS7g.png",
+    "name": "Lista USD",
+    "symbol": "LISUSD",
+    "rank": 856,
+    "price": 1,
+    "priceBtc": 9.206352229082459e-06,
+    "volume": 120444,
+    "marketCap": 37603038,
+    "availableSupply": 37599050,
+    "totalSupply": 38624582,
+    "fullyDilutedValuation": 38628679,
+    "priceChange1h": -0.03,
+    "priceChange1d": 0.01,
+    "priceChange1w": -0.06,
+    "websiteUrl": "https://helio.money/",
+    "contractAddress": "0x0782b6d8c4551b9760e74c0545a9bcd90bdc41e5",
+    "contractAddresses": [
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x0782b6d8c4551b9760e74c0545a9bcd90bdc41e5"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://bscscan.com/token/0x0782b6d8c4551b9760e74c0545a9bcd90bdc41e5"
+    ]
+  },
+  {
+    "id": "velodrome-finance",
+    "icon": "https://static.coinstats.app/coins/velodrome-financeYEK.png",
+    "name": "Velodrome Finance",
+    "symbol": "VELO",
+    "rank": 913,
+    "price": 0.03275226,
+    "priceBtc": 3.015288418584882e-07,
+    "volume": 4094675,
+    "marketCap": 34546360,
+    "availableSupply": 1056009250,
+    "totalSupply": 2245895109,
+    "fullyDilutedValuation": 73472368,
+    "priceChange1h": 0.01,
+    "priceChange1d": -3.81,
+    "priceChange1w": -6.06,
+    "websiteUrl": "https://velodrome.finance/",
+    "twitterUrl": "https://twitter.com/VelodromeFi",
+    "contractAddress": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+    "contractAddresses": [
+      {
+        "blockchain": "optimistic-ethereum",
+        "contractAddress": "0x9560e827af36c94d2ac33a39bce1fe78631088db"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://optimistic.etherscan.io/token/0x9560e827af36c94d2ac33a39bce1fe78631088db"
+    ]
+  },
+  {
+    "id": "xtusd",
+    "icon": "https://static.coinstats.app/coins/xtusduTa.png",
+    "name": "XT Stablecoin XTUSD",
+    "symbol": "XTUSD",
+    "rank": 941,
+    "price": 1,
+    "priceBtc": 9.206352229082459e-06,
+    "volume": 6817946,
+    "marketCap": 32800302,
+    "availableSupply": 32800030,
+    "totalSupply": 32800030,
+    "fullyDilutedValuation": 32800302,
+    "priceChange1h": 0.22,
+    "priceChange1d": -0.08,
+    "priceChange1w": -0.09,
+    "websiteUrl": "https://www.xtusd.pro/main",
+    "contractAddresses": [],
+    "explorers": [
+      "https://xscscan.pub/address/0x1a6131eaf7edd96afa10fc75b0d79dd814d19ed0"
+    ]
+  },
+  {
+    "id": "law-blocks",
+    "icon": "https://static.coinstats.app/coins/law-blocks49I.png",
+    "name": "Law Blocks",
+    "symbol": "LBT",
+    "rank": 954,
+    "price": 0.130266,
+    "priceBtc": 1.1992746794736556e-06,
+    "volume": 337282,
+    "marketCap": 31914953,
+    "availableSupply": 244997999,
+    "totalSupply": 1000000000,
+    "fullyDilutedValuation": 130266177,
+    "priceChange1h": 0.01,
+    "priceChange1d": 0.1,
+    "priceChange1w": 0.53,
+    "websiteUrl": "https://lawblocks.io/",
+    "twitterUrl": "https://twitter.com/lawblockstoken",
+    "contractAddress": "0x05940b2df33d6371201e7ae099ced4c363855dfe",
+    "contractAddresses": [
+      {
+        "blockchain": "xdc-network",
+        "contractAddress": "0x05940b2df33d6371201e7ae099ced4c363855dfe"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://explorer.network/token/xdc05940b2df33d6371201e7ae099ced4c363855dfe"
+    ]
+  },
+  {
+    "id": "saucerswap",
+    "icon": "https://static.coinstats.app/coins/saucerswapO4s.png",
+    "name": "SaucerSwap",
+    "symbol": "SAUCE",
+    "rank": 977,
+    "price": 0.03592387,
+    "priceBtc": 3.307278006517684e-07,
+    "volume": 164408,
+    "marketCap": 30928019,
+    "availableSupply": 861252916,
+    "totalSupply": 1000000000,
+    "fullyDilutedValuation": 35910495,
+    "priceChange1h": 0.42,
+    "priceChange1d": -4.21,
+    "priceChange1w": -14.31,
+    "websiteUrl": "https://www.saucerswap.finance/",
+    "twitterUrl": "https://twitter.com/SaucerSwapLabs",
+    "contractAddress": "0x00000000000000000000000000000000000b2ad5",
+    "contractAddresses": [
+      {
+        "blockchain": "hedera-hashgraph",
+        "contractAddress": "0x00000000000000000000000000000000000b2ad5"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://hashscan.io/#/mainnet/token/0.0.731861"
+    ]
+  },
+  {
+    "id": "laine-stake",
+    "icon": "https://static.coinstats.app/coins/laine-stakecPx.png",
+    "name": "Laine Staked SOL",
+    "symbol": "LAINESOL",
+    "rank": 980,
+    "price": 236.24,
+    "priceBtc": 0.0021749086505984403,
+    "volume": 1773,
+    "marketCap": 30795612,
+    "availableSupply": 130356,
+    "totalSupply": 130356,
+    "fullyDilutedValuation": 30795612,
+    "priceChange1h": -0.19,
+    "priceChange1d": -3.48,
+    "priceChange1w": -5.06,
+    "websiteUrl": "https://stake.laine.one",
+    "twitterUrl": "https://twitter.com/laine_sa_",
+    "contractAddress": "LAinEtNLgpmCP9Rvsf5Hn8W6EhNiKLZQti1xfWMLy6X",
+    "contractAddresses": [
+      {
+        "blockchain": "solana",
+        "contractAddress": "LAinEtNLgpmCP9Rvsf5Hn8W6EhNiKLZQti1xfWMLy6X"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://solscan.io/token/LAinEtNLgpmCP9Rvsf5Hn8W6EhNiKLZQti1xfWMLy6X"
+    ]
+  },
+  {
+    "id": "hashflow",
+    "icon": "https://static.coinstats.app/coins/hashflowvCw.png",
+    "name": "Hashflow",
+    "symbol": "HFT",
+    "rank": 987,
+    "price": 0.050005,
+    "priceBtc": 4.6036364321526835e-07,
+    "volume": 9745262,
+    "marketCap": 30516876,
+    "availableSupply": 610281716,
+    "totalSupply": 1000000000,
+    "fullyDilutedValuation": 50004573,
+    "priceChange1h": -0.29,
+    "priceChange1d": -6.96,
+    "priceChange1w": -12.1,
+    "redditUrl": "https://www.reddit.com/r/Hashflow",
+    "websiteUrl": "https://hashflow.com/",
+    "twitterUrl": "https://twitter.com/hashflow",
+    "contractAddress": "0xb3999f658c0391d94a37f7ff328f3fec942bcadc",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xb3999f658c0391d94a37f7ff328f3fec942bcadc"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x44ec807ce2f4a6f2737a92e985f318d035883e47"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0xb3999f658c0391d94a37f7ff328f3fec942bcadc"
+    ]
+  },
+  {
+    "id": "oasys",
+    "icon": "https://static.coinstats.app/coins/oasysBDW.png",
+    "name": "Oasys",
+    "symbol": "OAS",
+    "rank": 990,
+    "price": 0.00556306,
+    "priceBtc": 5.121548983151946e-08,
+    "volume": 462007,
+    "marketCap": 30303127,
+    "availableSupply": 5454993550,
+    "totalSupply": 10000000000,
+    "fullyDilutedValuation": 55551169,
+    "priceChange1h": 1.42,
+    "priceChange1d": -4.56,
+    "priceChange1w": -10.41,
+    "websiteUrl": "https://www.oasys.games/",
+    "twitterUrl": "https://twitter.com/oasyschain",
+    "contractAddresses": [],
+    "explorers": [
+      "https://explorer.oasys.games/"
+    ]
+  },
+  {
+    "id": "oho-blockchain",
+    "icon": "https://static.coinstats.app/coins/oho-blockchainkPa.png",
+    "name": "OHO Blockchain",
+    "symbol": "OHO",
+    "rank": 1009,
+    "price": 0.00119358,
+    "priceBtc": 1.0988517893588242e-08,
+    "volume": 163556,
+    "marketCap": 28817931,
+    "availableSupply": 24144156937,
+    "totalSupply": 45000000000,
+    "fullyDilutedValuation": 53711004,
+    "priceChange1h": -0.17,
+    "priceChange1d": -2.02,
+    "priceChange1w": -2.32,
+    "websiteUrl": "https://www.oho.ai",
+    "twitterUrl": "https://twitter.com/ohoblockchain",
+    "contractAddresses": [],
+    "explorers": [
+      "https://www.ohoscan.com"
+    ]
+  },
+  {
+    "id": "stake-link",
+    "icon": "https://static.coinstats.app/coins/stake-linkOZ1.png",
+    "name": "stake.link",
+    "symbol": "SDL",
+    "rank": 1010,
+    "price": 0.509994,
+    "priceBtc": 4.6951843987186786e-06,
+    "volume": 20837,
+    "marketCap": 28815918,
+    "availableSupply": 56564250,
+    "totalSupply": 100000000,
+    "fullyDilutedValuation": 50943692,
+    "priceChange1h": -0.22,
+    "priceChange1d": -12.46,
+    "priceChange1w": -9.23,
+    "websiteUrl": "https://stake.link",
+    "twitterUrl": "https://twitter.com/stakedotlink",
+    "contractAddress": "0xa95c5ebb86e0de73b4fb8c47a45b792cfea28c23",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xa95c5ebb86e0de73b4fb8c47a45b792cfea28c23"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0xa95c5ebb86e0de73b4fb8c47a45b792cfea28c23"
+    ]
+  },
+  {
+    "id": "stader-maticx",
+    "icon": "https://static.coinstats.app/coins/stader-maticxkGW.png",
+    "name": "Stader MaticX",
+    "symbol": "MATICX",
+    "rank": 1034,
+    "price": 0.229719,
+    "priceBtc": 2.1148740277125933e-06,
+    "volume": 219742,
+    "marketCap": 27260359,
+    "availableSupply": 118668051,
+    "totalSupply": 118668051,
+    "fullyDilutedValuation": 27260359,
+    "priceChange1h": -0.09,
+    "priceChange1d": -2.23,
+    "priceChange1w": 1.1,
+    "websiteUrl": "https://staderlabs.com/",
+    "twitterUrl": "https://twitter.com/stader_polygon",
+    "contractAddress": "0xf03a7eb46d01d9ecaa104558c732cf82f6b6b645",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xf03a7eb46d01d9ecaa104558c732cf82f6b6b645"
+      },
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6"
+      },
+      {
+        "blockchain": "manta-pacific",
+        "contractAddress": "0x01d27580c464d5b3b26f78bee12e684901dbc02a"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0xf03a7eb46d01d9ecaa104558c732cf82f6b6b645"
+    ]
+  },
+  {
+    "id": "minswap",
+    "icon": "https://static.coinstats.app/coins/minswapVNM.png",
+    "name": "Minswap",
+    "symbol": "MIN",
+    "rank": 1052,
+    "price": 0.01500775,
+    "priceBtc": 1.3816663266601228e-07,
+    "volume": 123042,
+    "marketCap": 26385277,
+    "availableSupply": 1758109731,
+    "totalSupply": 2499998929,
+    "fullyDilutedValuation": 37519367,
+    "priceChange1h": 0.58,
+    "priceChange1d": -2.78,
+    "priceChange1w": -7.69,
+    "redditUrl": "https://www.reddit.com/r/MinSwap/",
+    "websiteUrl": "https://minswap.org/",
+    "twitterUrl": "https://twitter.com/MinswapDEX",
+    "contractAddress": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
+    "contractAddresses": [
+      {
+        "blockchain": "cardano",
+        "contractAddress": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://cardanoscan.io/token/29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e"
+    ]
+  },
+  {
+    "id": "diamond-launch",
+    "icon": "https://static.coinstats.app/coins/diamond-launch7Wd.png",
+    "name": "Diverge Loop",
+    "symbol": "DLC",
+    "rank": 1075,
+    "price": 0.02860295,
+    "priceBtc": 2.633288324908341e-07,
+    "volume": 99643,
+    "marketCap": 25456626,
+    "availableSupply": 890000000,
+    "totalSupply": 1000000000,
+    "fullyDilutedValuation": 28602950,
+    "priceChange1h": -0.63,
+    "priceChange1d": -25.76,
+    "priceChange1w": 25.58,
+    "twitterUrl": "https://twitter.com/DivergeLoop",
+    "contractAddress": "0xde83180dd1166d4f8e5c2b7de14a2163b1bb4a87",
+    "contractAddresses": [
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0xde83180dd1166d4f8e5c2b7de14a2163b1bb4a87"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://www.bscscan.com/"
+    ]
+  },
+  {
+    "id": "forta",
+    "icon": "https://static.coinstats.app/coins/fortaJjy.png",
+    "name": "Forta",
+    "symbol": "FORT",
+    "rank": 1119,
+    "price": 0.03816647,
+    "priceBtc": 3.5137396616070877e-07,
+    "volume": 2561341,
+    "marketCap": 23778370,
+    "availableSupply": 625484416,
+    "totalSupply": 1000000000,
+    "fullyDilutedValuation": 38015927,
+    "priceChange1h": 0.44,
+    "priceChange1d": 0.35,
+    "priceChange1w": 10.58,
+    "websiteUrl": "https://forta.org/",
+    "twitterUrl": "https://twitter.com/FortaNetwork",
+    "contractAddress": "0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29"
+      },
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0x9ff62d1fc52a907b6dcba8077c2ddca6e6a9d3e1"
+      },
+      {
+        "blockchain": "arbitrum-one",
+        "contractAddress": "0x3a1429d50e0cbbc45c997af600541fe1cc3d2923"
+      },
+      {
+        "blockchain": "base",
+        "contractAddress": "0x7588310a7abf34dc608ac98a1c4432f85e194df5"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://explorer.forta.network/"
+    ]
+  },
+  {
+    "id": "radiant-capital",
+    "icon": "https://static.coinstats.app/coins/radiant-capitalEEi.png",
+    "name": "Radiant Capital",
+    "symbol": "RDNT",
+    "rank": 1132,
+    "price": 0.01797702,
+    "priceBtc": 1.6550277814925995e-07,
+    "volume": 6708739,
+    "marketCap": 23218220,
+    "availableSupply": 1292073967,
+    "totalSupply": 1500000000,
+    "fullyDilutedValuation": 26954595,
+    "priceChange1h": -0.16,
+    "priceChange1d": -5.43,
+    "priceChange1w": -14.65,
+    "websiteUrl": "https://radiant.capital/",
+    "twitterUrl": "https://twitter.com/RDNTCapital",
+    "contractAddress": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "contractAddresses": [
+      {
+        "blockchain": "arbitrum-one",
+        "contractAddress": "0x3082cc23568ea640225c2467653db90e9250aaa0"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0xf7de7e8a6bd59ed41a4b5fe50278b3b7f31384df"
+      },
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x137ddb47ee24eaa998a535ab00378d6bfa84f893"
+      },
+      {
+        "blockchain": "base",
+        "contractAddress": "0xd722e55c1d9d9fa0021a5215cbb904b92b3dc5d4"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://arbiscan.io/token/0x3082cc23568ea640225c2467653db90e9250aaa0"
+    ]
+  },
+  {
+    "id": "neon",
+    "icon": "https://static.coinstats.app/coins/neonYH4.png",
+    "name": "Neon",
+    "symbol": "NEON",
+    "rank": 1164,
+    "price": 0.092834,
+    "priceBtc": 8.546625028346409e-07,
+    "volume": 1056492,
+    "marketCap": 22241911,
+    "availableSupply": 239465431,
+    "totalSupply": 999999704,
+    "fullyDilutedValuation": 92881483,
+    "priceChange1h": 1.15,
+    "priceChange1d": -2.38,
+    "priceChange1w": -16.68,
+    "websiteUrl": "https://neonevm.org/",
+    "twitterUrl": "https://twitter.com/Neon_EVM",
+    "contractAddress": "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44",
+    "contractAddresses": [
+      {
+        "blockchain": "solana",
+        "contractAddress": "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://neonscan.org/"
+    ]
+  },
+  {
+    "id": "xpla",
+    "icon": "https://static.coinstats.app/coins/xplakWI.png",
+    "name": "XPLA",
+    "symbol": "XPLA",
+    "rank": 1189,
+    "price": 0.02577956,
+    "priceBtc": 2.37335709670765e-07,
+    "volume": 23475,
+    "marketCap": 21458747,
+    "availableSupply": 832393896,
+    "totalSupply": 1999921785,
+    "fullyDilutedValuation": 51557100,
+    "priceChange1h": 0.77,
+    "priceChange1d": -1.82,
+    "priceChange1w": -8.28,
+    "websiteUrl": "https://www.xpla.io/",
+    "twitterUrl": "https://twitter.com/XPLA_Official",
+    "contractAddress": "ibc/95C9B5870F95E21A242E6AF9ADCB1F212EE4A8855087226C36FBE43FC41A77B8",
+    "contractAddresses": [
+      {
+        "blockchain": "osmosis",
+        "contractAddress": "ibc/95C9B5870F95E21A242E6AF9ADCB1F212EE4A8855087226C36FBE43FC41A77B8"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://explorer.xpla.io/mainnet/token/xpla"
+    ]
+  },
+  {
+    "id": "hooked-protocol",
+    "icon": "https://static.coinstats.app/coins/hooked-protocolX8M.png",
+    "name": "Hooked Protocol",
+    "symbol": "HOOK",
+    "rank": 1240,
+    "price": 0.067422,
+    "priceBtc": 6.207106799891975e-07,
+    "volume": 7691932,
+    "marketCap": 19889288,
+    "availableSupply": 294999999,
+    "totalSupply": 500000000,
+    "fullyDilutedValuation": 33710658,
+    "priceChange1h": -0.29,
+    "priceChange1d": -5.95,
+    "priceChange1w": -0.65,
+    "websiteUrl": "https://hooked.io/",
+    "twitterUrl": "https://twitter.com/hookedprotocol",
+    "contractAddress": "0xa260e12d2b924cb899ae80bb58123ac3fee1e2f0",
+    "contractAddresses": [
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0xa260e12d2b924cb899ae80bb58123ac3fee1e2f0"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://bscscan.com/token/0xa260e12d2b924cb899ae80bb58123ac3fee1e2f0"
+    ]
+  },
+  {
+    "id": "stader-bnbx",
+    "icon": "https://static.coinstats.app/coins/stader-bnbxLxZ.png",
+    "name": "Stader BNBx",
+    "symbol": "BNBX",
+    "rank": 1256,
+    "price": 1181.54,
+    "priceBtc": 0.010877673412750088,
+    "volume": 107430,
+    "marketCap": 19376667,
+    "availableSupply": 16408,
+    "totalSupply": 0,
+    "fullyDilutedValuation": 0,
+    "priceChange1h": -0.51,
+    "priceChange1d": -3.72,
+    "priceChange1w": -7.24,
+    "websiteUrl": "https://binance.staderlabs.com/liquid-staking/bnbx",
+    "twitterUrl": "https://twitter.com/stader_bnb",
+    "contractAddress": "0x1bdd3cf7f79cfb8edbb955f20ad99211551ba275",
+    "contractAddresses": [
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x1bdd3cf7f79cfb8edbb955f20ad99211551ba275"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://bscscan.com/token/0x1bdd3cf7f79cfb8edbb955f20ad99211551ba275"
+    ]
+  },
+  {
+    "id": "arpa",
+    "icon": "https://static.coinstats.app/coins/arpaAOi.png",
+    "name": "ARPA",
+    "symbol": "ARPA",
+    "rank": 1260,
+    "price": 0.0196639,
+    "priceBtc": 1.8103278959745456e-07,
+    "volume": 10639457,
+    "marketCap": 19300133,
+    "availableSupply": 982174603,
+    "totalSupply": 2000000000,
+    "fullyDilutedValuation": 39300819,
+    "priceChange1h": 0.08,
+    "priceChange1d": -6.06,
+    "priceChange1w": -5.83,
+    "websiteUrl": "https://www.arpanetwork.io/en-US",
+    "twitterUrl": "https://twitter.com/arpaofficial",
+    "contractAddress": "0xba50933c268f567bdc86e1ac131be072c6b0b71a",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xba50933c268f567bdc86e1ac131be072c6b0b71a"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e"
+      },
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0xee800b277a96b0f490a1a732e1d6395fad960a26"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0xba50933c268f567bdc86e1ac131be072c6b0b71a"
+    ]
+  },
+  {
+    "id": "superwalk",
+    "icon": "https://static.coinstats.app/coins/superwalkH0j.png",
+    "name": "SuperWalk GRND",
+    "symbol": "GRND",
+    "rank": 1266,
+    "price": 0.02714836,
+    "priceBtc": 2.4993736460193305e-07,
+    "volume": 381934,
+    "marketCap": 19208759,
+    "availableSupply": 707660423,
+    "totalSupply": 987522926,
+    "fullyDilutedValuation": 26805357,
+    "priceChange1h": -0.29,
+    "priceChange1d": 0.59,
+    "priceChange1w": 4.46,
+    "websiteUrl": "https://superwalk.io",
+    "twitterUrl": "https://twitter.com/SuperWalk_",
+    "contractAddress": "0x84f8c3c8d6ee30a559d73ec570d574f671e82647",
+    "contractAddresses": [
+      {
+        "blockchain": "klay-token",
+        "contractAddress": "0x84f8c3c8d6ee30a559d73ec570d574f671e82647"
+      },
+      {
+        "blockchain": "arbitrum-one",
+        "contractAddress": "0x3b58a4c865b568a2f6a957c264f6b50cba35d8ce"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://arbiscan.io/address/0x3b58a4c865b568a2f6a957c264f6b50cba35d8ce"
+    ]
+  },
+  {
+    "id": "messier",
+    "icon": "https://static.coinstats.app/coins/messierfMb.png",
+    "name": "MESSIER",
+    "symbol": "M87",
+    "rank": 1311,
+    "price": 2.056e-05,
+    "priceBtc": 1.8928260182993534e-10,
+    "volume": 794354,
+    "marketCap": 18217128,
+    "availableSupply": 884836293944,
+    "totalSupply": 884836293944,
+    "fullyDilutedValuation": 18217128,
+    "priceChange1h": -0.41,
+    "priceChange1d": -7.24,
+    "priceChange1w": -36.3,
+    "websiteUrl": "https://messier.app/",
+    "twitterUrl": "https://twitter.com/MessierM87",
+    "contractAddress": "0x80122c6a83c8202ea365233363d3f4837d13e888",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x80122c6a83c8202ea365233363d3f4837d13e888"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x80122c6a83c8202ea365233363d3f4837d13e888"
+    ]
+  },
+  {
+    "id": "dimo",
+    "icon": "https://static.coinstats.app/coins/dimoHms.png",
+    "name": "DIMO",
+    "symbol": "DIMO",
+    "rank": 1345,
+    "price": 0.04191295,
+    "priceBtc": 3.858653806599216e-07,
+    "volume": 180421,
+    "marketCap": 16982950,
+    "availableSupply": 405021783,
+    "totalSupply": 1000000000,
+    "fullyDilutedValuation": 41930955,
+    "priceChange1h": 0.84,
+    "priceChange1d": -2.47,
+    "priceChange1w": -0.38,
+    "websiteUrl": "https://dimo.zone",
+    "twitterUrl": "https://twitter.com/dimo_network",
+    "contractAddress": "0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b"
+      },
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0xe261d618a959afffd53168cd07d12e37b26761db"
+      },
+      {
+        "blockchain": "iotex",
+        "contractAddress": "0x61db9b084326d2251ccb0252c18fd9b0e887ca4f"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://polygonscan.com/token/0xe261d618a959afffd53168cd07d12e37b26761db"
+    ]
+  },
+  {
+    "id": "indigo-dao-governance-token",
+    "icon": "https://static.coinstats.app/coins/indigo-dao-governance-tokenNcK.png",
+    "name": "Indigo Protocol",
+    "symbol": "INDY",
+    "rank": 1383,
+    "price": 0.898019,
+    "priceBtc": 8.2674792224084e-06,
+    "volume": 61506,
+    "marketCap": 15742723,
+    "availableSupply": 17530508,
+    "totalSupply": 35000000,
+    "fullyDilutedValuation": 31430653,
+    "priceChange1h": -0.03,
+    "priceChange1d": -4.49,
+    "priceChange1w": -8.38,
+    "websiteUrl": "https://indigoprotocol.io/",
+    "twitterUrl": "https://twitter.com/Indigo_protocol",
+    "contractAddress": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0494e4459",
+    "contractAddresses": [
+      {
+        "blockchain": "cardano",
+        "contractAddress": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0494e4459"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://cardanoscan.io/token/533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0494e4459"
+    ]
+  },
+  {
+    "id": "clash-of-lilliput",
+    "icon": "https://static.coinstats.app/coins/clash-of-lilliputdJL.png",
+    "name": "Clash of Lilliput",
+    "symbol": "COL",
+    "rank": 1401,
+    "price": 0.18589,
+    "priceBtc": 1.7113688158641382e-06,
+    "volume": 7137,
+    "marketCap": 15256824,
+    "availableSupply": 82074400,
+    "totalSupply": 1000000000,
+    "fullyDilutedValuation": 185890168,
+    "priceChange1h": 0.05,
+    "priceChange1d": -2.07,
+    "priceChange1w": -2.75,
+    "websiteUrl": "https://www.lilliput.games/",
+    "twitterUrl": "https://twitter.com/LilliputGames",
+    "contractAddress": "0x9ce116224459296abc7858627abd5879514bc629",
+    "contractAddresses": [
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x9ce116224459296abc7858627abd5879514bc629"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://bscscan.com/address/0x9ce116224459296abc7858627abd5879514bc629"
+    ]
+  },
+  {
+    "id": "aura-bal",
+    "icon": "https://static.coinstats.app/coins/aura-balpXq.png",
+    "name": "Aura BAL",
+    "symbol": "AURABAL",
+    "rank": 1421,
+    "price": 4.01,
+    "priceBtc": 3.691747243862066e-05,
+    "volume": 35572,
+    "marketCap": 14726437,
+    "availableSupply": 3670188,
+    "totalSupply": 3670188,
+    "fullyDilutedValuation": 14726437,
+    "priceChange1h": 0,
+    "priceChange1d": 1.66,
+    "priceChange1w": -0.58,
+    "websiteUrl": "https://aura.finance/",
+    "twitterUrl": "https://twitter.com/AuraFinance",
+    "contractAddress": "0x616e8bfa43f920657b3497dbf40d6b1a02d4608d",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x616e8bfa43f920657b3497dbf40d6b1a02d4608d"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x616e8bfa43f920657b3497dbf40d6b1a02d4608d"
+    ]
+  },
+  {
+    "id": "comtech-gold",
+    "icon": "https://static.coinstats.app/coins/comtech-goldtXq.png",
+    "name": "Comtech Gold",
+    "symbol": "CGO",
+    "rank": 1423,
+    "price": 134.88,
+    "priceBtc": 0.001241752788658642,
+    "volume": 882354,
+    "marketCap": 14702124,
+    "availableSupply": 109000,
+    "totalSupply": 109000,
+    "fullyDilutedValuation": 14702124,
+    "priceChange1h": -0.66,
+    "priceChange1d": -2.87,
+    "priceChange1w": 1.81,
+    "redditUrl": "https://www.reddit.com/r/ComTechGold",
+    "websiteUrl": "https://www.comtechgold.com/",
+    "twitterUrl": "https://twitter.com/ComTechOfficial",
+    "contractAddress": "xdc8f9920283470f52128bf11b0c14e798be704fd15",
+    "contractAddresses": [
+      {
+        "blockchain": "xdc-network",
+        "contractAddress": "xdc8f9920283470f52128bf11b0c14e798be704fd15"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://xdc.blocksscan.io/tokens/xdc8f9920283470f52128bf11b0c14e798be704fd15#tokentransfers"
+    ]
+  },
+  {
+    "id": "kwenta",
+    "icon": "https://static.coinstats.app/coins/kwentaYqf.png",
+    "name": "Kwenta",
+    "symbol": "KWENTA",
+    "rank": 1440,
+    "price": 26.76,
+    "priceBtc": 0.0002463619856502466,
+    "volume": 840.08,
+    "marketCap": 14245477,
+    "availableSupply": 532375,
+    "totalSupply": 797714,
+    "fullyDilutedValuation": 21345497,
+    "priceChange1h": 4.72,
+    "priceChange1d": -5.4,
+    "priceChange1w": -21.37,
+    "websiteUrl": "https://kwenta.eth.limo/",
+    "twitterUrl": "https://twitter.com/kwenta_io",
+    "contractAddress": "0x920cf626a271321c151d027030d5d08af699456b",
+    "contractAddresses": [
+      {
+        "blockchain": "optimistic-ethereum",
+        "contractAddress": "0x920cf626a271321c151d027030d5d08af699456b"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://optimistic.etherscan.io/token/0x920cf626a271321c151d027030d5d08af699456b"
+    ]
+  },
+  {
+    "id": "origyn-foundation",
+    "icon": "https://static.coinstats.app/coins/origyn-foundationCGO.png",
+    "name": "ORIGYN",
+    "symbol": "OGY",
+    "rank": 1473,
+    "price": 0.0016581,
+    "priceBtc": 1.5265052631041625e-08,
+    "volume": 223547,
+    "marketCap": 13667999,
+    "availableSupply": 8243936640,
+    "totalSupply": 10415972188,
+    "fullyDilutedValuation": 17269116,
+    "priceChange1h": 0.42,
+    "priceChange1d": -2.09,
+    "priceChange1w": -6.39,
+    "websiteUrl": "https://www.origyn.com/",
+    "contractAddress": "lkwrt-vyaaa-aaaaq-aadhq-cai",
+    "contractAddresses": [
+      {
+        "blockchain": "internet-computer",
+        "contractAddress": "lkwrt-vyaaa-aaaaq-aadhq-cai"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://dashboard.origyn.com/explorer"
+    ]
+  },
+  {
+    "id": "quickswap",
+    "icon": "https://static.coinstats.app/coins/quickswap5MJ.png",
+    "name": "Quickswap",
+    "symbol": "QUICK",
+    "rank": 1478,
+    "price": 0.01873099,
+    "priceBtc": 1.7244409153942122e-07,
+    "volume": 4111279,
+    "marketCap": 13590955,
+    "availableSupply": 725729279,
+    "totalSupply": 944358988,
+    "fullyDilutedValuation": 17685301,
+    "priceChange1h": 0.17,
+    "priceChange1d": -3.23,
+    "priceChange1w": -0.35,
+    "redditUrl": "https://www.reddit.com/r/QuickSwap/",
+    "websiteUrl": "https://quickswap.exchange/",
+    "twitterUrl": "https://twitter.com/QuickswapDEX",
+    "contractAddress": "0xd2ba23de8a19316a638dc1e7a9adda1d74233368",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xd2ba23de8a19316a638dc1e7a9adda1d74233368"
+      },
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0xb5c064f955d8e7f38fe0460c556a72987494ee17"
+      },
+      {
+        "blockchain": "dogechain",
+        "contractAddress": "0xb12c13e66ade1f72f71834f2fc5082db8c091358"
+      },
+      {
+        "blockchain": "polygon-zkevm",
+        "contractAddress": "0x68286607a1d43602d880d349187c3c48c0fd05e6"
+      },
+      {
+        "blockchain": "manta-pacific",
+        "contractAddress": "0xe22e3d44ea9fb0a87ea3f7a8f41d869c677f0020"
+      },
+      {
+        "blockchain": "base",
+        "contractAddress": "0x7094c27f342dbadfbbed005b219431595e33b305"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://polygonscan.com/token/0xb5c064f955d8e7f38fe0460c556a72987494ee17"
+    ]
+  },
+  {
+    "id": "stride-staked-atom",
+    "icon": "https://static.coinstats.app/coins/stride-staked-atomqy0.png",
+    "name": "Stride Staked Atom",
+    "symbol": "STATOM",
+    "rank": 1495,
+    "price": 5.35,
+    "priceBtc": 4.925398442559115e-05,
+    "volume": 523219,
+    "marketCap": 13279966,
+    "availableSupply": 2482650,
+    "totalSupply": 2482650,
+    "fullyDilutedValuation": 13279966,
+    "priceChange1h": -0.28,
+    "priceChange1d": -2.11,
+    "priceChange1w": -3.36,
+    "websiteUrl": "https://www.stride.zone/",
+    "twitterUrl": "https://twitter.com/stride_zone",
+    "contractAddress": "0xc8b4d3e67238e38b20d38908646ff6f4f48de5ec",
+    "contractAddresses": [
+      {
+        "blockchain": "evmos",
+        "contractAddress": "0xc8b4d3e67238e38b20d38908646ff6f4f48de5ec"
+      },
+      {
+        "blockchain": "osmosis",
+        "contractAddress": "ibc/C140AFD542AE77BD7DCC83F13FDD8C5E5BB8C4929785E6EC2F4C636F98F17901"
+      },
+      {
+        "blockchain": "secret",
+        "contractAddress": "secret155w9uxruypsltvqfygh5urghd5v0zc6f9g69sq"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://poolparty.stride.zone/gaia"
+    ]
+  },
+  {
+    "id": "sweatcoin",
+    "icon": "https://static.coinstats.app/coins/sweatcoin6o2.png",
+    "name": "SWEAT",
+    "symbol": "SWEAT",
+    "rank": 1525,
+    "price": 0.00165813,
+    "priceBtc": 1.52653288216085e-08,
+    "volume": 2766028,
+    "marketCap": 12692403,
+    "availableSupply": 7658576650,
+    "totalSupply": 20696841752,
+    "fullyDilutedValuation": 34300453,
+    "priceChange1h": 0.2,
+    "priceChange1d": -1.33,
+    "priceChange1w": -4.13,
+    "redditUrl": "https://www.reddit.com/r/Sweateconomy/",
+    "websiteUrl": "https://swe.at/",
+    "twitterUrl": "https://twitter.com/SweatEconomy",
+    "contractAddress": "0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35"
+      },
+      {
+        "blockchain": "near-protocol",
+        "contractAddress": "token.sweat"
+      },
+      {
+        "blockchain": "solana",
+        "contractAddress": "NSG17kiSApMumWjLbZ4BLx8biPaAxTk9tDCdy1Fb9ia"
+      },
+      {
+        "blockchain": "celo",
+        "contractAddress": "0x718aa4f7f026fd16086c842a68ce9ef55203b54f"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x510ad22d8c956dcc20f68932861f54a591001283"
+      },
+      {
+        "blockchain": "base",
+        "contractAddress": "0x227d920e20ebac8a40e7d6431b7d724bb64d7245"
+      },
+      {
+        "blockchain": "aptos",
+        "contractAddress": "0x9aa4c03344444b53f4d9b1bca229ed2ac47504e3ea6cd0683ebdc0c5ecefd693::coin::T"
+      },
+      {
+        "blockchain": "sui",
+        "contractAddress": "0xf0b202ef3e107ff4fc0142bbb9a607bf73b8f6460c5026d5c21c6f2e0a9a1083::coin::COIN"
+      },
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0x0cc931c30f4fc7fa36d290a4cd8d94acd738826e"
+      },
+      {
+        "blockchain": "arbitrum-one",
+        "contractAddress": "0xca7dec8550f43a5e46e3dfb95801f64280e75b27"
+      },
+      {
+        "blockchain": "optimistic-ethereum",
+        "contractAddress": "0x38761749330c23d681d136e8ea3fc47d4bb93db3"
+      },
+      {
+        "blockchain": "avalanche",
+        "contractAddress": "0x1e4c0e060fba7d62fa9fbb1aa624e58f796b4efe"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35"
+    ]
+  },
+  {
+    "id": "rei-network",
+    "icon": "https://static.coinstats.app/coins/rei-networktmV.png",
+    "name": "REI Network",
+    "symbol": "REI",
+    "rank": 1566,
+    "price": 0.01207105,
+    "priceBtc": 1.1113033807486581e-07,
+    "volume": 513465,
+    "marketCap": 11842451,
+    "availableSupply": 981135865,
+    "totalSupply": 1000000000,
+    "fullyDilutedValuation": 12070144,
+    "priceChange1h": 0.17,
+    "priceChange1d": -3.13,
+    "priceChange1w": -2.03,
+    "redditUrl": "https://www.reddit.com/r/GXS/",
+    "websiteUrl": "https://rei.network/",
+    "twitterUrl": "https://twitter.com/GXChainGlobal",
+    "contractAddresses": [],
+    "explorers": [
+      "https://scan.rei.network/"
+    ]
+  },
+  {
+    "id": "yusd-stablecoin",
+    "icon": "https://static.coinstats.app/coins/yusd-stablecoinI5s.png",
+    "name": "YUSD Stablecoin",
+    "symbol": "YUSD",
+    "rank": 1571,
+    "price": 0.995472,
+    "priceBtc": 9.164665866189173e-06,
+    "volume": 18.84,
+    "marketCap": 11788824,
+    "availableSupply": 11842447,
+    "totalSupply": 11842447,
+    "fullyDilutedValuation": 11788824,
+    "priceChange1h": 0,
+    "priceChange1d": -0.06,
+    "priceChange1w": 0,
+    "websiteUrl": "https://yeti.finance/",
+    "twitterUrl": "https://twitter.com/YetiFinance",
+    "contractAddress": "0x111111111111ed1d73f860f57b2798b683f2d325",
+    "contractAddresses": [
+      {
+        "blockchain": "avalanche",
+        "contractAddress": "0x111111111111ed1d73f860f57b2798b683f2d325"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://snowtrace.io/token/0x111111111111ed1d73f860f57b2798b683f2d325"
+    ]
+  },
+  {
+    "id": "magpie",
+    "icon": "https://static.coinstats.app/coins/magpies2k.png",
+    "name": "Magpie",
+    "symbol": "MGP",
+    "rank": 1609,
+    "price": 0.02305949,
+    "priceBtc": 2.1229378716300464e-07,
+    "volume": 4545,
+    "marketCap": 11077576,
+    "availableSupply": 480671133,
+    "totalSupply": 1000000000,
+    "fullyDilutedValuation": 23046060,
+    "priceChange1h": -0.27,
+    "priceChange1d": -2.88,
+    "priceChange1w": -7.75,
+    "websiteUrl": "https://www.magpiexyz.io/",
+    "contractAddress": "0xd06716e1ff2e492cc5034c2e81805562dd3b45fa",
+    "contractAddresses": [
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0xd06716e1ff2e492cc5034c2e81805562dd3b45fa"
+      },
+      {
+        "blockchain": "arbitrum-one",
+        "contractAddress": "0xa61f74247455a40b01b0559ff6274441fafa22a3"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://bscscan.com/token/0xd06716e1ff2e492cc5034c2e81805562dd3b45fa"
+    ]
+  },
+  {
+    "id": "reef",
+    "icon": "https://static.coinstats.app/coins/reefjgC.png",
+    "name": "Reef",
+    "symbol": "REEF",
+    "rank": 1642,
+    "price": 0.00024183,
+    "priceBtc": 2.226372159559011e-09,
+    "volume": 162442,
+    "marketCap": 10660909,
+    "availableSupply": 43982061533,
+    "totalSupply": 43982061533,
+    "fullyDilutedValuation": 10660909,
+    "priceChange1h": 2.16,
+    "priceChange1d": 0.17,
+    "priceChange1w": 0.72,
+    "redditUrl": "https://www.reddit.com/r/ReefDeFi/",
+    "websiteUrl": "https://reef.io",
+    "twitterUrl": "https://twitter.com/Reef_Chain",
+    "contractAddress": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e"
+      },
+      {
+        "blockchain": "harmony-shard-0",
+        "contractAddress": "0x9ab0db833557d95aff98c09b560145ad34e681b8"
+      },
+      {
+        "blockchain": "sora",
+        "contractAddress": "0x0004d3168f737e96b66b72fbb1949a2a23d4ef87182d1e8bf64096f1bb348e0b"
+      },
+      {
+        "blockchain": "energi",
+        "contractAddress": "0x2c969b248144dc371b428705da84b413203d9e76"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://reefscan.com/contract/0x0000000000000000000000000000000001000000"
+    ]
+  },
+  {
+    "id": "orbit-bridge-klaytn-usd-tether",
+    "icon": "https://static.coinstats.app/coins/orbit-bridge-klaytn-usd-tetherj2q.png",
+    "name": "Bridged Tether (Orbit Bridge)",
+    "symbol": "OUSDT",
+    "rank": 1744,
+    "price": 0.114721,
+    "priceBtc": 1.0561619340725688e-06,
+    "volume": 30626,
+    "marketCap": 9260303,
+    "availableSupply": 80719956,
+    "totalSupply": 80719956,
+    "fullyDilutedValuation": 9260303,
+    "priceChange1h": -0.35,
+    "priceChange1d": -1.88,
+    "priceChange1w": -0.53,
+    "websiteUrl": "https://bridge.orbitchain.io/",
+    "twitterUrl": "https://twitter.com/Orbit_Chain",
+    "contractAddress": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
+    "contractAddresses": [
+      {
+        "blockchain": "klay-token",
+        "contractAddress": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://kaiascan.io/token/0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167"
+    ]
+  },
+  {
+    "id": "fidu",
+    "icon": "https://static.coinstats.app/coins/fiduAnv.png",
+    "name": "Fidu",
+    "symbol": "FIDU",
+    "rank": 1766,
+    "price": 0.195579,
+    "priceBtc": 1.8005691626117182e-06,
+    "volume": 3115,
+    "marketCap": 8936634,
+    "availableSupply": 45693152,
+    "totalSupply": 45693152,
+    "fullyDilutedValuation": 8936634,
+    "priceChange1h": 0,
+    "priceChange1d": 0,
+    "priceChange1w": -36.57,
+    "redditUrl": "https://www.reddit.com/r/goldfinch_fi/",
+    "websiteUrl": "https://goldfinch.finance/",
+    "twitterUrl": "https://twitter.com/goldfinch_fi",
+    "contractAddress": "0x6a445e9f40e0b97c92d0b8a3366cef1d67f700bf",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x6a445e9f40e0b97c92d0b8a3366cef1d67f700bf"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x6a445e9f40e0b97c92d0b8a3366cef1d67f700bf"
+    ]
+  },
+  {
+    "id": "zedxion-usdz",
+    "icon": "https://static.coinstats.app/coins/zedxion-usdz6yY.png",
+    "name": "Zedxion USDZ",
+    "symbol": "USDZ",
+    "rank": 1793,
+    "price": 0.998843,
+    "priceBtc": 9.195700479553411e-06,
+    "volume": 144746,
+    "marketCap": 8726974,
+    "availableSupply": 8737300,
+    "totalSupply": 87000000000,
+    "fullyDilutedValuation": 86897181138,
+    "priceChange1h": -0.02,
+    "priceChange1d": 0.04,
+    "priceChange1w": 0.04,
+    "websiteUrl": "https://www.zedxion.io/en_US/",
+    "twitterUrl": "https://twitter.com/zedxionc",
+    "contractAddress": "0x734d66f635523d7ddb7d2373c128333da313041b",
+    "contractAddresses": [
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x734d66f635523d7ddb7d2373c128333da313041b"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://bscscan.com/token/0x734d66f635523d7ddb7d2373c128333da313041b"
+    ]
+  },
+  {
+    "id": "kondux-v2",
+    "icon": "https://static.coinstats.app/coins/kondux-v2E8d.png",
+    "name": "KONDUX",
+    "symbol": "KNDX",
+    "rank": 1884,
+    "price": 0.01379026,
+    "priceBtc": 1.2695799089062667e-07,
+    "volume": 8815,
+    "marketCap": 7553889,
+    "availableSupply": 547924317,
+    "totalSupply": 943410209,
+    "fullyDilutedValuation": 13006205,
+    "priceChange1h": -0.58,
+    "priceChange1d": -5.33,
+    "priceChange1w": -12.41,
+    "redditUrl": "https://www.reddit.com/r/Greytoken/",
+    "websiteUrl": "https://kondux.info/",
+    "twitterUrl": "https://twitter.com/Kondux_KNDX",
+    "contractAddress": "0x7ca5af5ba3472af6049f63c1abc324475d44efc1",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x7ca5af5ba3472af6049f63c1abc324475d44efc1"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x7ca5af5ba3472af6049f63c1abc324475d44efc1"
+    ]
+  },
+  {
+    "id": "konnect",
+    "icon": "https://static.coinstats.app/coins/konnectxva.png",
+    "name": "Konnect",
+    "symbol": "KCT",
+    "rank": 1889,
+    "price": 0.00102322,
+    "priceBtc": 9.420123727841754e-09,
+    "volume": 525985,
+    "marketCap": 7459373,
+    "availableSupply": 7290000039,
+    "totalSupply": 10000000000,
+    "fullyDilutedValuation": 10232336,
+    "priceChange1h": -1.8,
+    "priceChange1d": -2.11,
+    "priceChange1w": 11.29,
+    "websiteUrl": "https://konnect.finance/",
+    "twitterUrl": "https://twitter.com/KONNECT_KCT",
+    "contractAddress": "0x63230728bc219d991d2995ce92e96c16fcf8beb6",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x63230728bc219d991d2995ce92e96c16fcf8beb6"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x63230728bc219d991D2995ce92E96C16Fcf8beB6"
+    ]
+  },
+  {
+    "id": "volt-inu-2",
+    "icon": "https://static.coinstats.app/coins/1661842325437.png",
+    "name": "Volt Inu",
+    "symbol": "VOLT",
+    "rank": 1907,
+    "price": 1.16625e-07,
+    "priceBtc": 1.0736908287167417e-12,
+    "volume": 165945,
+    "marketCap": 7258445,
+    "availableSupply": 62263131613878,
+    "totalSupply": 69000000000000,
+    "fullyDilutedValuation": 8043808,
+    "priceChange1h": 0.01,
+    "priceChange1d": -4.59,
+    "priceChange1w": -11.99,
+    "websiteUrl": "https://voltinu.in/",
+    "twitterUrl": "https://twitter.com/VoltInuOfficial",
+    "contractAddress": "0x7f792db54b0e580cdc755178443f0430cf799aca",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x7f792db54b0e580cdc755178443f0430cf799aca"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x7f792db54b0e580cdc755178443f0430cf799aca"
+      },
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0x7f792db54b0e580cdc755178443f0430cf799aca"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x7f792db54b0e580cdc755178443f0430cf799aca"
+    ]
+  },
+  {
+    "id": "wagmi-game-2",
+    "icon": "https://static.coinstats.app/coins/wagmi-game-20b4.png",
+    "name": "WAGMI Games",
+    "symbol": "WAGMIGAMES",
+    "rank": 1929,
+    "price": 3.34e-06,
+    "priceBtc": 3.074921644513541e-11,
+    "volume": 192670,
+    "marketCap": 7024553,
+    "availableSupply": 2104228266398,
+    "totalSupply": 2200000000000,
+    "fullyDilutedValuation": 7344268,
+    "priceChange1h": 0.34,
+    "priceChange1d": -5.1,
+    "priceChange1w": -9.92,
+    "redditUrl": "https://www.reddit.com/r/wagmigame",
+    "websiteUrl": "https://www.wagmigames.com",
+    "twitterUrl": "https://twitter.com/wagmigameco",
+    "contractAddress": "0x3b604747ad1720c01ded0455728b62c0d2f100f0",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x3b604747ad1720c01ded0455728b62c0d2f100f0"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x3b604747ad1720c01ded0455728b62c0d2f100f0"
+    ]
+  },
+  {
+    "id": "dione",
+    "icon": "https://static.coinstats.app/coins/dioneSAS.png",
+    "name": "Dione",
+    "symbol": "DIONE",
+    "rank": 1936,
+    "price": 0.00059289,
+    "priceBtc": 5.458354173100699e-09,
+    "volume": 234594,
+    "marketCap": 6916768,
+    "availableSupply": 11666142778,
+    "totalSupply": 13433600526,
+    "fullyDilutedValuation": 7964680,
+    "priceChange1h": -3.19,
+    "priceChange1d": -9.93,
+    "priceChange1w": -2.83,
+    "websiteUrl": "https://www.dioneprotocol.com",
+    "twitterUrl": "https://twitter.com/DioneProtocol",
+    "contractAddresses": [],
+    "explorers": [
+      "https://odysseyscan.com/"
+    ]
+  },
+  {
+    "id": "xen-crypto",
+    "icon": "https://static.coinstats.app/coins/xen-cryptoDWI.png",
+    "name": "XEN Crypto",
+    "symbol": "XEN",
+    "rank": 1947,
+    "price": 2.8964e-08,
+    "priceBtc": 2.6665278596314434e-13,
+    "volume": 576850,
+    "marketCap": 6816073,
+    "availableSupply": 235249500812339,
+    "totalSupply": 235249500812339,
+    "fullyDilutedValuation": 6816073,
+    "priceChange1h": -2.23,
+    "priceChange1d": 1.46,
+    "priceChange1w": -4.01,
+    "redditUrl": "https://www.reddit.com/r/xencrypto/",
+    "websiteUrl": "https://xen.network/mainnet",
+    "twitterUrl": "https://twitter.com/XEN_Crypto",
+    "contractAddress": "0x06450dee7fd2fb8e39061434babcfc05599a6fb8",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x06450dee7fd2fb8e39061434babcfc05599a6fb8"
+      },
+      {
+        "blockchain": "avalanche",
+        "contractAddress": "0xc0c5aa69dbe4d6dddfbc89c0957686ec60f24389"
+      },
+      {
+        "blockchain": "ethereumpow",
+        "contractAddress": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x06450dee7fd2fb8e39061434babcfc05599a6fb8"
+    ]
+  },
+  {
+    "id": "stride",
+    "icon": "https://static.coinstats.app/coins/strideQj9.png",
+    "name": "Stride",
+    "symbol": "STRD",
+    "rank": 1967,
+    "price": 0.071152,
+    "priceBtc": 6.550503738036752e-07,
+    "volume": 35781,
+    "marketCap": 6583009,
+    "availableSupply": 92520555,
+    "totalSupply": 92520555,
+    "fullyDilutedValuation": 6583009,
+    "priceChange1h": -0.51,
+    "priceChange1d": -7.44,
+    "priceChange1w": 5.11,
+    "websiteUrl": "https://www.stride.zone",
+    "twitterUrl": "https://twitter.com/stride_zone",
+    "contractAddress": "ibc/A8CA5EE328FA10C9519DF6057DA1F69682D28F7D0F5CCC7ECB72E3DCA2D157A4",
+    "contractAddresses": [
+      {
+        "blockchain": "osmosis",
+        "contractAddress": "ibc/A8CA5EE328FA10C9519DF6057DA1F69682D28F7D0F5CCC7ECB72E3DCA2D157A4"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://www.mintscan.io/stride"
+    ]
+  },
+  {
+    "id": "stat",
+    "icon": "https://static.coinstats.app/coins/statm35.png",
+    "name": "STAT",
+    "symbol": "STAT",
+    "rank": 1995,
+    "price": 0.083043,
+    "priceBtc": 7.645231081596946e-07,
+    "volume": 2071992,
+    "marketCap": 6304155,
+    "availableSupply": 75918328,
+    "totalSupply": 96918328,
+    "fullyDilutedValuation": 8047966,
+    "priceChange1h": 1.79,
+    "priceChange1d": 6.03,
+    "priceChange1w": -14.8,
+    "websiteUrl": "https://statproject.io/en/",
+    "twitterUrl": "https://twitter.com/project_stat",
+    "contractAddress": "0x4fc15c91a9c4a9efb404174464687e8e128730c2",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x4fc15c91a9c4a9efb404174464687e8e128730c2"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x4fc15c91a9c4a9efb404174464687e8e128730c2"
+    ]
+  },
+  {
+    "id": "hydranet",
+    "icon": "https://static.coinstats.app/coins/hydraneto4L.png",
+    "name": "Hydranet",
+    "symbol": "HDN",
+    "rank": 2006,
+    "price": 0.03036417,
+    "priceBtc": 2.795432441637387e-07,
+    "volume": 115542,
+    "marketCap": 6213976,
+    "availableSupply": 204625245,
+    "totalSupply": 300000000,
+    "fullyDilutedValuation": 9110278,
+    "priceChange1h": 0.05,
+    "priceChange1d": -0.01,
+    "priceChange1w": -9.86,
+    "redditUrl": "https://www.reddit.com/r/hydranet/",
+    "websiteUrl": "https://hydranet.ai/",
+    "twitterUrl": "https://twitter.com/TheHydranet",
+    "contractAddress": "0xb0f66bdb39acbb043308eb9dbe78f5bb47ea5430",
+    "contractAddresses": [
+      {
+        "blockchain": "arbitrum-one",
+        "contractAddress": "0xb0f66bdb39acbb043308eb9dbe78f5bb47ea5430"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://arbiscan.io/token/0xB0F66Bdb39acBb043308eb9Dbe78F5bB47ea5430"
+    ]
+  },
+  {
+    "id": "good-person-coin",
+    "icon": "https://static.coinstats.app/coins/good-person-coin9Di.png",
+    "name": "Good Person Coin",
+    "symbol": "GPCX",
+    "rank": 2009,
+    "price": 0.00109924,
+    "priceBtc": 1.0119990624296602e-08,
+    "volume": 793.27,
+    "marketCap": 6167775,
+    "availableSupply": 5610968751,
+    "totalSupply": 10000000000,
+    "fullyDilutedValuation": 10992354,
+    "priceChange1h": 29.29,
+    "priceChange1d": 37.39,
+    "priceChange1w": 0.79,
+    "websiteUrl": "https://www.goodpersoncoin.com/",
+    "twitterUrl": "https://twitter.com/GoodPersonCoin",
+    "contractAddresses": [],
+    "explorers": [
+      "https://tronscan.org/#/token/1003026"
+    ]
+  },
+  {
+    "id": "galaxia",
+    "icon": "https://static.coinstats.app/coins/galaxiakw9.png",
+    "name": "Galaxia",
+    "symbol": "GXA",
+    "rank": 2045,
+    "price": 0.00193377,
+    "priceBtc": 1.7802967750032786e-08,
+    "volume": 3129,
+    "marketCap": 5938209,
+    "availableSupply": 3070829346,
+    "totalSupply": 7619439991,
+    "fullyDilutedValuation": 14734073,
+    "priceChange1h": 0.36,
+    "priceChange1d": -2.51,
+    "priceChange1w": 13.87,
+    "websiteUrl": "https://metagalaxia.com/",
+    "twitterUrl": "https://twitter.com/GXA_galaxia",
+    "contractAddress": "0xa80e96cceb1419f9bd9f1c67f7978f51b534a11b",
+    "contractAddresses": [
+      {
+        "blockchain": "klay-token",
+        "contractAddress": "0xa80e96cceb1419f9bd9f1c67f7978f51b534a11b"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://kaiascan.io/token/0xa80e96cceb1419f9bd9f1c67f7978f51b534a11b"
+    ]
+  },
+  {
+    "id": "aura-finance",
+    "icon": "https://static.coinstats.app/coins/aura-financehpK.png",
+    "name": "Aura Finance",
+    "symbol": "AURA",
+    "rank": 2059,
+    "price": 0.118467,
+    "priceBtc": 1.0906489295227116e-06,
+    "volume": 12601,
+    "marketCap": 5880063,
+    "availableSupply": 49648037,
+    "totalSupply": 82668727,
+    "fullyDilutedValuation": 9790867,
+    "priceChange1h": -0.26,
+    "priceChange1d": -1.63,
+    "priceChange1w": -9.71,
+    "websiteUrl": "https://aura.finance",
+    "twitterUrl": "https://twitter.com/aurafinance",
+    "contractAddress": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf"
+      },
+      {
+        "blockchain": "xdai",
+        "contractAddress": "0x1509706a6c66ca549ff0cb464de88231ddbe213b"
+      },
+      {
+        "blockchain": "base",
+        "contractAddress": "0x1509706a6c66ca549ff0cb464de88231ddbe213b"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/address/0xc0c293ce456ff0ed870add98a0828dd4d2903dbf"
+    ]
+  },
+  {
+    "id": "leisuremeta",
+    "icon": "https://static.coinstats.app/coins/leisuremetaV3b.png",
+    "name": "LeisureMeta",
+    "symbol": "LM",
+    "rank": 2109,
+    "price": 0.00170911,
+    "priceBtc": 1.5734668658247122e-08,
+    "volume": 132754,
+    "marketCap": 5597825,
+    "availableSupply": 3268074832,
+    "totalSupply": 4668074832,
+    "fullyDilutedValuation": 7995859,
+    "priceChange1h": 0.04,
+    "priceChange1d": -3.72,
+    "priceChange1w": -1.66,
+    "websiteUrl": "https://leisuremeta.io/",
+    "twitterUrl": "https://twitter.com/LeisureMeta_LM",
+    "contractAddress": "0xc064f4f215b6a1e4e7f39bd8530c4de0fc43ee9d",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xc064f4f215b6a1e4e7f39bd8530c4de0fc43ee9d"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0xc064f4f215b6a1e4e7f39bd8530c4de0fc43ee9d"
+    ]
+  },
+  {
+    "id": "atlas-navi",
+    "icon": "https://static.coinstats.app/coins/atlas-navi79d.png",
+    "name": "Atlas Navi",
+    "symbol": "NAVI",
+    "rank": 2159,
+    "price": 0.03222331,
+    "priceBtc": 2.9665914184691507e-07,
+    "volume": 314520,
+    "marketCap": 5217532,
+    "availableSupply": 161706684,
+    "totalSupply": 300000000,
+    "fullyDilutedValuation": 9679622,
+    "priceChange1h": -1.17,
+    "priceChange1d": 2.19,
+    "priceChange1w": -11.7,
+    "websiteUrl": "https://www.atlasnavi.com/",
+    "twitterUrl": "https://twitter.com/AtlasNavi",
+    "contractAddress": "0xfc1c93a2507975e98b9d0e9260ded61a00152bf1",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0xfc1c93a2507975e98b9d0e9260ded61a00152bf1"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0xfc1c93a2507975e98b9d0e9260ded61a00152bf1"
+    ]
+  },
+  {
+    "id": "gemhub",
+    "icon": "https://static.coinstats.app/coins/gemhubsyK.png",
+    "name": "GemHUB",
+    "symbol": "GHUB",
+    "rank": 2196,
+    "price": 0.02059274,
+    "priceBtc": 1.895840178019155e-07,
+    "volume": 110673,
+    "marketCap": 4995896,
+    "availableSupply": 242604720,
+    "totalSupply": 1200000000,
+    "fullyDilutedValuation": 24711288,
+    "priceChange1h": -0.38,
+    "priceChange1d": -0.73,
+    "priceChange1w": 0.19,
+    "websiteUrl": "https://www.gemhub.io/",
+    "twitterUrl": "https://twitter.com/GemHUB_Protocol",
+    "contractAddress": "0x4836cc1f355bb2a61c210eaa0cd3f729160cd95e",
+    "contractAddresses": [
+      {
+        "blockchain": "klay-token",
+        "contractAddress": "0x4836cc1f355bb2a61c210eaa0cd3f729160cd95e"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://kaiascan.io/token/0x4836cc1f355bb2a61c210eaa0cd3f729160cd95e"
+    ]
+  },
+  {
+    "id": "rocketx",
+    "icon": "https://static.coinstats.app/coins/1674735456523.png",
+    "name": "RocketX Exchange",
+    "symbol": "RVF",
+    "rank": 2224,
+    "price": 0.05018,
+    "priceBtc": 4.619747548553578e-07,
+    "volume": 1886,
+    "marketCap": 4839770,
+    "availableSupply": 96453508,
+    "totalSupply": 98674739,
+    "fullyDilutedValuation": 4951225,
+    "priceChange1h": -0.58,
+    "priceChange1d": -3.03,
+    "priceChange1w": -5.22,
+    "websiteUrl": "https://app.rocketx.exchange",
+    "twitterUrl": "https://twitter.com/RocketXexchange",
+    "contractAddress": "0x2fb652314c3d850e9049057bbe9813f1eee882d3",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x2fb652314c3d850e9049057bbe9813f1eee882d3"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x267e0c7456df5254492127ea7b2e14e556b492b8"
+      },
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0x2ce13e4199443fdfff531abb30c9b6594446bbc7"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x2fb652314c3d850e9049057bbe9813f1eee882d3"
+    ]
+  },
+  {
+    "id": "xxcoin",
+    "icon": "https://static.coinstats.app/coins/xxcoinKKA.png",
+    "name": "XX Network",
+    "symbol": "XX",
+    "rank": 2231,
+    "price": 0.01402996,
+    "priceBtc": 1.2916475351993774e-07,
+    "volume": 132987,
+    "marketCap": 4801178,
+    "availableSupply": 342209037,
+    "totalSupply": 950758869,
+    "fullyDilutedValuation": 13339105,
+    "priceChange1h": -6.88,
+    "priceChange1d": -9.77,
+    "priceChange1w": -11.05,
+    "websiteUrl": "https://xx.network/",
+    "twitterUrl": "https://twitter.com/xx_network",
+    "contractAddress": "0x171120219d3223e008558654ec3254a0f206edb2",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x171120219d3223e008558654ec3254a0f206edb2"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://explorer.xx.network/"
+    ]
+  },
+  {
+    "id": "primate",
+    "icon": "https://static.coinstats.app/coins/primateVKX.png",
+    "name": "Primate",
+    "symbol": "PRIMATE",
+    "rank": 2282,
+    "price": 0.0027197,
+    "priceBtc": 2.503851615743556e-08,
+    "volume": 60.41,
+    "marketCap": 4471556,
+    "availableSupply": 1642974778,
+    "totalSupply": 2060000000,
+    "fullyDilutedValuation": 5606541,
+    "priceChange1h": -0.19,
+    "priceChange1d": 1.46,
+    "priceChange1w": -69.59,
+    "websiteUrl": "https://www.benjibananas.com/",
+    "twitterUrl": "https://twitter.com/BenjiBananas",
+    "contractAddress": "0x46e98ffe40e408ba6412beb670507e083c8b95ff",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x46e98ffe40e408ba6412beb670507e083c8b95ff"
+      },
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0xa19863e302fd1b41276fce5a48d9c511dbeef34c"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x46e98ffe40e408ba6412beb670507e083c8b95ff"
+    ]
+  },
+  {
+    "id": "croatian-ff-fan-token",
+    "icon": "https://static.coinstats.app/coins/croatian-ff-fan-tokenJva.png",
+    "name": "Croatian Football Federation Token",
+    "symbol": "VATRENI",
+    "rank": 2286,
+    "price": 1.15,
+    "priceBtc": 1.0587305063444826e-05,
+    "volume": 17618,
+    "marketCap": 4458879,
+    "availableSupply": 3864024,
+    "totalSupply": 21359922,
+    "fullyDilutedValuation": 24648219,
+    "priceChange1h": 0.04,
+    "priceChange1d": 3.08,
+    "priceChange1w": -0.02,
+    "websiteUrl": "https://token.hns-cff.hr/",
+    "twitterUrl": "https://twitter.com/vatreni_token",
+    "contractAddress": "0xd60deba014459f07bbcc077a5b817f31dafd5229",
+    "contractAddresses": [
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0xd60deba014459f07bbcc077a5b817f31dafd5229"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://polygonscan.com/token/0xd60deba014459f07bbcc077a5b817f31dafd5229"
+    ]
+  },
+  {
+    "id": "dynex",
+    "icon": "https://static.coinstats.app/coins/dynex8uV.png",
+    "name": "Dynex",
+    "symbol": "DNX",
+    "rank": 2336,
+    "price": 0.04004986,
+    "priceBtc": 3.687131178854404e-07,
+    "volume": 151177,
+    "marketCap": 4210301,
+    "availableSupply": 105079572,
+    "totalSupply": 105104973,
+    "fullyDilutedValuation": 4211319,
+    "priceChange1h": 1.91,
+    "priceChange1d": -0.33,
+    "priceChange1w": -3.72,
+    "websiteUrl": "https://dynexcoin.org/",
+    "twitterUrl": "https://twitter.com/dynexcoin",
+    "contractAddress": "0x9928a8600d14ac22c0be1e8d58909834d7ceaf13",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x9928a8600d14ac22c0be1e8d58909834d7ceaf13"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://blockexplorer.dynexcoin.org"
+    ]
+  },
+  {
+    "id": "stader-sftmx",
+    "icon": "https://static.coinstats.app/coins/stader-sftmxzQZ.png",
+    "name": "BeethovenX sFTMX",
+    "symbol": "SFTMX",
+    "rank": 2356,
+    "price": 0.207623,
+    "priceBtc": 1.9114504688587874e-06,
+    "volume": 104.53,
+    "marketCap": 4115626,
+    "availableSupply": 19822579,
+    "totalSupply": 19822579,
+    "fullyDilutedValuation": 4115626,
+    "priceChange1h": 0.17,
+    "priceChange1d": -2.43,
+    "priceChange1w": -9.08,
+    "websiteUrl": "https://beets.fi/sftmx",
+    "twitterUrl": "https://twitter.com/beethoven_x",
+    "contractAddress": "0xd7028092c830b5c8fce061af2e593413ebbc1fc1",
+    "contractAddresses": [
+      {
+        "blockchain": "fantom",
+        "contractAddress": "0xd7028092c830b5c8fce061af2e593413ebbc1fc1"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://ftmscan.com/token/0xd7028092c830b5c8fce061af2e593413ebbc1fc1"
+    ]
+  },
+  {
+    "id": "vnx-gold",
+    "icon": "https://static.coinstats.app/coins/vnx-goldzXA.png",
+    "name": "VNX Gold",
+    "symbol": "VNXAU",
+    "rank": 2396,
+    "price": 134.8,
+    "priceBtc": 0.0012410162804803156,
+    "volume": 145372,
+    "marketCap": 3922627,
+    "availableSupply": 29100,
+    "totalSupply": 29100,
+    "fullyDilutedValuation": 3922627,
+    "priceChange1h": -0.92,
+    "priceChange1d": -1.31,
+    "priceChange1w": 3.32,
+    "websiteUrl": "https://vnx.li/",
+    "twitterUrl": "https://twitter.com/vnx_io",
+    "contractAddress": "0x6d57b2e05f26c26b549231c866bdd39779e4a488",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x6d57b2e05f26c26b549231c866bdd39779e4a488"
+      },
+      {
+        "blockchain": "polygon-pos",
+        "contractAddress": "0xc8bb8eda94931ca2f20ef43ea7dbd58e68400400"
+      },
+      {
+        "blockchain": "solana",
+        "contractAddress": "9TPL8droGJ7jThsq4momaoz6uhTcvX2SeMqipoPmNa8R"
+      },
+      {
+        "blockchain": "tezos",
+        "contractAddress": "KT1LSH97386CURN9FgRNqdQJoHaHY6e1vxUv"
+      },
+      {
+        "blockchain": "base",
+        "contractAddress": "0xac3fe22294beaed9d1fd752323a6d06d12ff3098"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x6d57b2e05f26c26b549231c866bdd39779e4a488"
+    ]
+  },
+  {
+    "id": "skeb",
+    "icon": "https://static.coinstats.app/coins/skebFWv.png",
+    "name": "Skeb",
+    "symbol": "SKEB",
+    "rank": 2478,
+    "price": 0.00037248,
+    "priceBtc": 3.429182078288634e-09,
+    "volume": 17069,
+    "marketCap": 3592372,
+    "availableSupply": 9652300000,
+    "totalSupply": 9979886009,
+    "fullyDilutedValuation": 3714292,
+    "priceChange1h": -0.32,
+    "priceChange1d": -1.47,
+    "priceChange1w": -0.15,
+    "websiteUrl": "https://skebcoin.com/",
+    "twitterUrl": "https://twitter.com/SkebCoin",
+    "contractAddress": "0x6d614686550b9e1c1df4b2cd8f91c9d4df66c810",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x6d614686550b9e1c1df4b2cd8f91c9d4df66c810"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x6d614686550b9e1c1df4b2cd8f91c9d4df66c810"
+    ]
+  },
+  {
+    "id": "zambesigold",
+    "icon": "https://static.coinstats.app/coins/zambesigoldry3.png",
+    "name": "ZambesiGold",
+    "symbol": "ZGD",
+    "rank": 2487,
+    "price": 0.085019,
+    "priceBtc": 7.827148601643615e-07,
+    "volume": 31018,
+    "marketCap": 3562620,
+    "availableSupply": 41904417,
+    "totalSupply": 177000000,
+    "fullyDilutedValuation": 15048147,
+    "priceChange1h": 0,
+    "priceChange1d": 0.01,
+    "priceChange1w": 2.35,
+    "websiteUrl": "https://www.zambesigold.co.za/",
+    "twitterUrl": "https://twitter.com/ZGDToken",
+    "contractAddress": "0xbf27da33a58de2bc6eb1c7dab6cf2e84e825d7dc",
+    "contractAddresses": [
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0xbf27da33a58de2bc6eb1c7dab6cf2e84e825d7dc"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://bscscan.com/token/0xbf27da33a58de2bc6eb1c7dab6cf2e84e825d7dc"
+    ]
+  },
+  {
+    "id": "shina-inu",
+    "icon": "https://static.coinstats.app/coins/shina-inuPPA.png",
+    "name": "Shina Inu",
+    "symbol": "SHI",
+    "rank": 2503,
+    "price": 2.50446e-07,
+    "priceBtc": 2.3056940903647857e-12,
+    "volume": 5999,
+    "marketCap": 3510963,
+    "availableSupply": 14019639368119,
+    "totalSupply": 14482056376677,
+    "fullyDilutedValuation": 3626767,
+    "priceChange1h": -0.62,
+    "priceChange1d": -5.86,
+    "priceChange1w": -0.39,
+    "redditUrl": "https://www.reddit.com/r/shinatoken/",
+    "websiteUrl": "https://shinatoken.com",
+    "twitterUrl": "https://twitter.com/ShinaToken",
+    "contractAddress": "0x243cacb4d5ff6814ad668c3e225246efa886ad5a",
+    "contractAddresses": [
+      {
+        "blockchain": "ethereum",
+        "contractAddress": "0x243cacb4d5ff6814ad668c3e225246efa886ad5a"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://etherscan.io/token/0x243cacb4d5ff6814ad668c3e225246efa886ad5a"
+    ]
+  },
+  {
+    "id": "bidz-coin",
+    "icon": "https://static.coinstats.app/coins/bidz-coin7PT.png",
+    "name": "BIDZ Coin",
+    "symbol": "BIDZ",
+    "rank": 2510,
+    "price": 0.00174943,
+    "priceBtc": 1.6105868780123727e-08,
+    "volume": 9717,
+    "marketCap": 3487511,
+    "availableSupply": 1950000000,
+    "totalSupply": 12850000000,
+    "fullyDilutedValuation": 22981807,
+    "priceChange1h": -2.18,
+    "priceChange1d": 6.7,
+    "priceChange1w": 79.11,
+    "websiteUrl": "https://bidz.store",
+    "twitterUrl": "https://twitter.com/bidzcoin",
+    "contractAddress": "0x20de6118c3672659e488d1d45279cdf77391fbdc",
+    "contractAddresses": [
+      {
+        "blockchain": "binance_smart",
+        "contractAddress": "0x20de6118c3672659e488d1d45279cdf77391fbdc"
+      }
+    ],
+    "decimals": 18,
+    "explorers": [
+      "https://bscscan.com/token/0x20de6118c3672659e488d1d45279cdf77391fbdc"
+    ]
+  }
+]
