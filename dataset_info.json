@@ -1,0 +1,27 @@
+{
+  "name": "crypto-ai-dataset",
+  "version": "1.0.0", 
+  "description": "Comprehensive cryptocurrency dataset for AI analysis and trading strategies",
+  "created_date": "2024-01-01",
+  "author": "hanzo7656-prog",
+  "data_sources": ["CoinStats API"],
+  "data_files": {
+    "coins_list": "raw_data/coins_list.json",
+    "analytical_indicators": "raw_data/analytical_indicators.json",
+    "market_news": "raw_data/market_news_data.json",
+    "coin_charts": "raw_data/*.json"
+  },
+  "statistics": {
+    "total_coins": 110,
+    "timeframes": ["all", "1y", "1m", "1w", "1d", "1h"],
+    "total_data_points": "~1.2 million",
+    "dataset_size": "~20 MB",
+    "last_updated": "2024-01-01"
+  },
+  "usage": {
+    "ai_training": "Cryptocurrency price prediction",
+    "technical_analysis": "RSI, MACD, Moving Averages",
+    "sentiment_analysis": "Market news and trends",
+    "risk_management": "Portfolio optimization"
+  }
+}
